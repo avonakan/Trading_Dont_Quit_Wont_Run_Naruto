@@ -1,0 +1,971 @@
+Symbol,Primary Issue,Buy Condition 50 DMA,Buy Condition 200 DMA,DMA Diff on Entry,Entry Mistake,Sell Condition 50 DMA,Sell Condition 200 DMA,DMA Diff on Exit,Exit Mistake,Buy Verdict,Sell Verdict,Price Change Since Sell
+KAYNES,BOTH: Bad Entry + Early Exit,21.76,16.23,-4.54,Death Cross (50<200) | Overbought (>15% above DMA),-1.03,1.49,2.54,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (19.3% left on table),Bad call,Wrong early sell,19.32
+KAYNES,BOTH: Bad Entry + Early Exit,21.76,16.23,-4.54,Death Cross (50<200) | Overbought (>15% above DMA),-1.03,1.49,2.54,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (19.3% left on table),Bad call,Wrong early sell,19.33
+KAYNES,BOTH: Bad Entry + Early Exit,21.76,16.23,-4.54,Death Cross (50<200) | Overbought (>15% above DMA),-1.03,1.49,2.54,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (19.3% left on table),Bad call,Wrong early sell,19.33
+KAYNES,BOTH: Bad Entry + Early Exit,21.76,16.23,-4.54,Death Cross (50<200) | Overbought (>15% above DMA),-1.03,1.49,2.54,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (19.3% left on table),Bad call,Wrong early sell,19.33
+KAYNES,BOTH: Bad Entry + Early Exit,21.76,16.23,-4.54,Death Cross (50<200) | Overbought (>15% above DMA),-1.03,1.49,2.54,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (19.3% left on table),Bad call,Wrong early sell,19.33
+KAYNES,BOTH: Bad Entry + Early Exit,21.76,16.23,-4.54,Death Cross (50<200) | Overbought (>15% above DMA),-1.03,1.49,2.54,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (19.2% left on table),Bad call,Wrong early sell,19.17
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.12
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.12
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.12
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.12
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.12
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.09
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.09
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.09
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.09
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.09
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.09
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.09
+CDSL,WELL EXECUTED,15.37,-1.23,-14.39,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),18.19,13.91,-3.62,GOOD EXIT,Good call,Good call,-0.09
+ETERNAL,EARLY EXIT (wasted good entry),10.33,-1.22,-10.47,Below 200 DMA | Death Cross (50<200),6.93,0.36,-6.14,Sold above both DMAs | Sold during improving trend | HUGE MISS (33.8% left on table),Good call,Wrong early sell,33.81
+ETERNAL,EARLY EXIT (wasted good entry),10.33,-1.22,-10.47,Below 200 DMA | Death Cross (50<200),6.93,0.36,-6.14,Sold above both DMAs | Sold during improving trend | HUGE MISS (33.8% left on table),Good call,Wrong early sell,33.81
+ETERNAL,EARLY EXIT (wasted good entry),10.33,-1.22,-10.47,Below 200 DMA | Death Cross (50<200),6.93,0.36,-6.14,Sold above both DMAs | Sold during improving trend | HUGE MISS (33.8% left on table),Good call,Wrong early sell,33.81
+ETERNAL,EARLY EXIT (wasted good entry),10.33,-1.22,-10.47,Below 200 DMA | Death Cross (50<200),6.93,0.36,-6.14,Sold above both DMAs | Sold during improving trend | HUGE MISS (33.8% left on table),Good call,Wrong early sell,33.81
+ETERNAL,EARLY EXIT (wasted good entry),10.33,-1.22,-10.47,Below 200 DMA | Death Cross (50<200),6.93,0.36,-6.14,Sold above both DMAs | Sold during improving trend | HUGE MISS (33.8% left on table),Good call,Wrong early sell,33.82
+ETERNAL,EARLY EXIT (wasted good entry),10.33,-1.22,-10.47,Below 200 DMA | Death Cross (50<200),6.93,0.36,-6.14,Sold above both DMAs | Sold during improving trend | HUGE MISS (33.8% left on table),Good call,Wrong early sell,33.82
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.68
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.67
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.67
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.67
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.67
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.66
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.66
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.65
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.65
+PERSISTENT,WELL EXECUTED,8.98,3.13,-5.36,Death Cross (50<200),9.31,4.66,-4.25,GOOD EXIT,Good call,Good call,-0.65
+KAYNES,BOTH: Bad Entry + Early Exit,21.76,16.23,-4.54,Death Cross (50<200) | Overbought (>15% above DMA),-3.66,-0.59,3.18,Sold during improving trend | Panic sold crossing below 50 DMA | Large miss (24.4% left on table),Bad call,Wrong early sell,24.42
+SIEMENS,BOTH: Bad Entry + Early Exit,9.4,-9.4,-17.19,Below 200 DMA | Death Cross (50<200),-3.28,-10.0,-6.95,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.43
+SIEMENS,BOTH: Bad Entry + Early Exit,9.4,-9.4,-17.19,Below 200 DMA | Death Cross (50<200),-3.28,-10.0,-6.95,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.43
+SIEMENS,BOTH: Bad Entry + Early Exit,9.4,-9.4,-17.19,Below 200 DMA | Death Cross (50<200),-3.28,-10.0,-6.95,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.43
+SIEMENS,BOTH: Bad Entry + Early Exit,9.4,-9.4,-17.19,Below 200 DMA | Death Cross (50<200),-3.28,-10.0,-6.95,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.42
+SIEMENS,BOTH: Bad Entry + Early Exit,9.4,-9.4,-17.19,Below 200 DMA | Death Cross (50<200),-3.28,-10.0,-6.95,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.43
+SIEMENS,BOTH: Bad Entry + Early Exit,9.4,-9.4,-17.19,Below 200 DMA | Death Cross (50<200),-3.28,-10.0,-6.95,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.43
+SIEMENS,Bad Entry (but saved by good exit),9.4,-9.4,-17.19,Below 200 DMA | Death Cross (50<200),0.32,-5.0,-5.3,GOOD EXIT,Bad call,Good call,-1.36
+SIEMENS,Bad Entry (but saved by good exit),9.4,-9.4,-17.19,Below 200 DMA | Death Cross (50<200),0.32,-5.0,-5.3,GOOD EXIT,Bad call,Good call,-1.36
+SIEMENS,Bad Entry (but saved by good exit),8.37,-9.43,-16.43,Below 200 DMA | Death Cross (50<200),0.32,-5.0,-5.3,GOOD EXIT,Bad call,Good call,-1.36
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.82
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.83
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.83
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.84
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.85
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.85
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.85
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.85
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.85
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.85
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.85
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.9% left on table),Good call,Wrong early sell,13.86
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.9% left on table),Good call,Wrong early sell,13.86
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.9% left on table),Good call,Wrong early sell,13.86
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.9% left on table),Good call,Wrong early sell,13.86
+MOTILALOFS,EARLY EXIT (wasted good entry),25.8,15.73,-8.01,Death Cross (50<200) | Overbought (>15% above DMA),11.03,17.75,6.05,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (13.9% left on table),Good call,Wrong early sell,13.86
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.39
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.39
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.39
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.39
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.39
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.39
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.39
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.4
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.4
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.4
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.4
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.4
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.4
+TRENT,Bad Entry (but saved by good exit),10.4,-5.49,-14.39,Below 200 DMA | Death Cross (50<200),-8.67,-13.97,-5.8,GOOD EXIT,Bad call,Good call,-7.39
+ABB,BOTH: Bad Entry + Early Exit,10.92,-5.03,-14.38,Below 200 DMA | Death Cross (50<200),-13.05,-16.93,-4.47,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,2.99
+ABB,BOTH: Bad Entry + Early Exit,10.92,-5.03,-14.38,Below 200 DMA | Death Cross (50<200),-5.35,-11.92,-6.94,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.11
+ABB,BOTH: Bad Entry + Early Exit,10.92,-5.03,-14.38,Below 200 DMA | Death Cross (50<200),-5.35,-11.92,-6.94,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.12
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.26
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.25
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.24
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.23
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.23
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.22
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.27
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.25
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.25
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.26
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.23
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.26
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.26
+ANANTRAJ,BOTH: Bad Entry + Early Exit,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.97,-0.05,-5.68,Sold during improving trend,Bad call,Wrong early sell,7.26
+ANANTRAJ,WELL EXECUTED,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),15.9,18.01,1.83,GOOD EXIT,Good call,Good call,-7.42
+ANANTRAJ,WELL EXECUTED,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),15.9,18.01,1.83,GOOD EXIT,Good call,Good call,-7.42
+ANANTRAJ,WELL EXECUTED,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),15.9,18.01,1.83,GOOD EXIT,Good call,Good call,-7.42
+ANANTRAJ,WELL EXECUTED,19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),15.9,18.01,1.83,GOOD EXIT,Good call,Good call,-7.42
+ANANTRAJ,EARLY EXIT (wasted good entry),19.06,-7.52,-22.32,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),2.02,7.83,5.7,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,1.9
+BAJAJHLDNG,BOTH: Bad Entry + Early Exit,-3.31,6.17,9.81,GOOD ENTRY,-5.55,-1.51,4.28,N/A,Bad call,Wrong early sell,7.03
+BSE,EARLY EXIT (wasted good entry),-7.11,5.68,13.77,GOOD ENTRY,8.31,13.69,4.97,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.45
+BSE,EARLY EXIT (wasted good entry),-7.11,5.68,13.77,GOOD ENTRY,8.31,13.69,4.97,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.45
+BSE,EARLY EXIT (wasted good entry),-7.11,5.68,13.77,GOOD ENTRY,8.31,13.69,4.97,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.45
+COROMANDEL,BOTH: Bad Entry + Early Exit,-1.72,10.63,12.56,GOOD ENTRY,-4.72,3.51,8.64,N/A,Bad call,Wrong early sell,0.58
+COROMANDEL,BOTH: Bad Entry + Early Exit,-1.72,10.63,12.56,GOOD ENTRY,-4.72,3.51,8.64,N/A,Bad call,Wrong early sell,0.58
+COROMANDEL,BOTH: Bad Entry + Early Exit,-1.72,10.63,12.56,GOOD ENTRY,-4.72,3.51,8.64,N/A,Bad call,Wrong early sell,0.57
+COROMANDEL,BOTH: Bad Entry + Early Exit,-1.72,10.63,12.56,GOOD ENTRY,-4.72,3.51,8.64,N/A,Bad call,Wrong early sell,0.58
+COROMANDEL,BOTH: Bad Entry + Early Exit,-1.72,10.63,12.56,GOOD ENTRY,-4.72,3.51,8.64,N/A,Bad call,Wrong early sell,0.59
+COROMANDEL,BOTH: Bad Entry + Early Exit,-1.72,10.63,12.56,GOOD ENTRY,-4.72,3.51,8.64,N/A,Bad call,Wrong early sell,0.59
+COROMANDEL,BOTH: Bad Entry + Early Exit,-7.32,3.1,11.24,GOOD ENTRY,-4.72,3.51,8.64,N/A,Bad call,Wrong early sell,0.59
+COROMANDEL,BOTH: Bad Entry + Early Exit,-7.32,3.1,11.24,GOOD ENTRY,-4.72,3.51,8.64,N/A,Bad call,Wrong early sell,0.57
+BAJAJHLDNG,BOTH: Bad Entry + Early Exit,-5.58,1.65,7.66,GOOD ENTRY,-5.55,-1.51,4.28,N/A,Bad call,Wrong early sell,7.02
+BAJAJHLDNG,BOTH: Bad Entry + Early Exit,-5.58,1.65,7.66,GOOD ENTRY,-5.55,-1.51,4.28,N/A,Bad call,Wrong early sell,7.02
+BAJAJHLDNG,BOTH: Bad Entry + Early Exit,-5.58,1.65,7.66,GOOD ENTRY,-5.55,-1.51,4.28,N/A,Bad call,Wrong early sell,7.02
+BSE,EARLY EXIT (wasted good entry),-12.29,-4.15,9.28,Below 200 DMA,8.31,13.69,4.97,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.45
+BSE,EARLY EXIT (wasted good entry),-12.29,-4.15,9.28,Below 200 DMA,8.31,13.69,4.97,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.46
+RADICO,WELL EXECUTED,1.18,14.52,13.19,GOOD ENTRY,9.4,25.57,14.78,GOOD EXIT,Good call,Good call,-0.79
+RADICO,WELL EXECUTED,1.18,14.52,13.19,GOOD ENTRY,9.4,25.57,14.78,GOOD EXIT,Good call,Good call,-0.79
+RADICO,WELL EXECUTED,1.18,14.52,13.19,GOOD ENTRY,9.4,25.57,14.78,GOOD EXIT,Good call,Good call,-0.79
+RADICO,WELL EXECUTED,1.18,14.52,13.19,GOOD ENTRY,9.4,25.57,14.78,GOOD EXIT,Good call,Good call,-0.79
+RADICO,WELL EXECUTED,1.18,14.52,13.19,GOOD ENTRY,9.4,25.57,14.78,GOOD EXIT,Good call,Good call,-0.79
+RADICO,WELL EXECUTED,1.18,14.52,13.19,GOOD ENTRY,9.4,25.57,14.78,GOOD EXIT,Good call,Good call,-0.79
+RADICO,WELL EXECUTED,1.18,14.52,13.19,GOOD ENTRY,9.4,25.57,14.78,GOOD EXIT,Good call,Good call,-0.79
+RADICO,WELL EXECUTED,1.18,14.52,13.19,GOOD ENTRY,9.4,25.57,14.78,GOOD EXIT,Good call,Good call,-0.79
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.1% left on table),Good call,Wrong early sell,25.14
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.1% left on table),Good call,Wrong early sell,25.14
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.1% left on table),Good call,Wrong early sell,25.14
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.1% left on table),Good call,Wrong early sell,25.15
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.19
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.22
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.22
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.23
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.23
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.23
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.28
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.28
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.3
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.3
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.3
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.3
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.3
+GOLDETF,EARLY EXIT (wasted good entry),2.4,13.49,10.83,GOOD ENTRY,8.3,21.66,12.33,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.3
+SETFGOLD,EARLY EXIT (wasted good entry),3.28,14.4,10.76,GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.26
+SETFGOLD,EARLY EXIT (wasted good entry),3.28,14.4,10.76,GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.26
+SETFGOLD,EARLY EXIT (wasted good entry),3.28,14.4,10.76,GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.26
+SETFGOLD,EARLY EXIT (wasted good entry),3.28,14.4,10.76,GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.26
+SETFGOLD,EARLY EXIT (wasted good entry),3.28,14.4,10.76,GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.26
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),3.49,14.67,10.8,GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.26
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.26
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.26
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.26
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.27
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.3
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.32
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.32
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.33
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.33
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.33
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.33
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.33
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.33
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.33
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.33
+SETFGOLD,EARLY EXIT (wasted good entry),8.6,21.0,11.42,Overbought (>15% above DMA) | GOOD ENTRY,8.7,21.82,12.07,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.3% left on table),Good call,Wrong early sell,24.33
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,8.67,21.84,12.12,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.4% left on table),Good call,Wrong early sell,24.4
+BAJFINANCE,Bad Entry (but saved by good exit),-0.93,14.93,16.01,GOOD ENTRY,-0.93,14.93,16.01,GOOD EXIT,Bad call,Good call,-87.46
+HCG,EARLY EXIT (wasted good entry),-3.61,10.36,14.5,GOOD ENTRY,-3.61,10.36,14.5,HUGE MISS (30.6% left on table),Good call,Wrong early sell,30.59
+HCG,EARLY EXIT (wasted good entry),-3.61,10.36,14.5,GOOD ENTRY,-3.61,10.36,14.5,HUGE MISS (30.6% left on table),Good call,Wrong early sell,30.6
+ETERNAL,EARLY EXIT (wasted good entry),5.68,-4.18,-9.33,Below 200 DMA | Death Cross (50<200),5.68,-4.18,-9.33,HUGE MISS (41.4% left on table),Good call,Wrong early sell,41.36
+CDSL,EARLY EXIT (wasted good entry),28.9,16.72,-9.45,Death Cross (50<200) | Overbought (>15% above DMA),28.9,16.72,-9.45,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,0.87
+ABB,BOTH: Bad Entry + Early Exit,-13.05,-16.93,-4.47,Below 200 DMA | Death Cross (50<200),-13.05,-16.93,-4.47,N/A,Bad call,Wrong early sell,2.93
+TARIL,WELL EXECUTED,-4.24,-2.07,2.26,Below 200 DMA | Weak DMA Diff (<3%),-4.24,-2.07,2.26,GOOD EXIT,Good call,Good call,-2.0
+ASTRAZEN,EARLY EXIT (wasted good entry),6.53,13.92,6.94,GOOD ENTRY,10.94,19.58,7.79,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,9.58
+CHAMBLFERT,WELL EXECUTED,12.94,22.98,8.89,Overbought (>15% above DMA),15.11,34.21,16.6,GOOD EXIT,Good call,Good call,-31.62
+BAJAJFINSV,EARLY EXIT (wasted good entry),2.99,9.75,6.57,GOOD ENTRY,5.34,14.64,8.83,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,7.9
+HCG,EARLY EXIT (wasted good entry),2.95,16.69,13.34,Overbought (>15% above DMA) | GOOD ENTRY,10.51,26.36,14.34,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (17.0% left on table),Good call,Wrong early sell,17.0
+CHAMBLFERT,WELL EXECUTED,14.32,26.77,10.89,Overbought (>15% above DMA),15.11,34.21,16.6,GOOD EXIT,Good call,Good call,-31.62
+INDIASHLTR,BOTH: Bad Entry + Early Exit,13.36,18.33,4.39,Overbought (>15% above DMA),6.63,17.76,10.44,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Bad call,Wrong early sell,5.54
+INDIASHLTR,BOTH: Bad Entry + Early Exit,13.36,18.33,4.39,Overbought (>15% above DMA),6.63,17.76,10.44,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Bad call,Wrong early sell,5.54
+MEDANTA,BOTH: Bad Entry + Early Exit,0.69,7.67,6.93,GOOD ENTRY,-2.53,4.43,7.14,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (14.2% left on table),Bad call,Wrong early sell,14.18
+MEDANTA,BOTH: Bad Entry + Early Exit,0.69,7.67,6.93,GOOD ENTRY,-2.53,4.43,7.14,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (14.2% left on table),Bad call,Wrong early sell,14.18
+MEDANTA,BOTH: Bad Entry + Early Exit,0.69,7.67,6.93,GOOD ENTRY,-2.53,4.43,7.14,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (14.2% left on table),Bad call,Wrong early sell,14.2
+CHAMBLFERT,WELL EXECUTED,13.96,29.69,13.81,Overbought (>15% above DMA),15.11,34.21,16.6,GOOD EXIT,Good call,Good call,-31.62
+CHAMBLFERT,WELL EXECUTED,13.96,29.69,13.81,Overbought (>15% above DMA),15.11,34.21,16.6,GOOD EXIT,Good call,Good call,-31.62
+BAJFINANCE,Bad Entry (but saved by good exit),5.0,21.73,15.94,Overbought (>15% above DMA) | GOOD ENTRY,2.6,19.02,16.0,GOOD EXIT,Bad call,Good call,-87.61
+INDIASHLTR,BOTH: Bad Entry + Early Exit,14.51,23.16,7.55,Overbought (>15% above DMA),6.63,17.76,10.44,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Bad call,Wrong early sell,5.54
+INDHOTEL,Bad Entry (but saved by good exit),1.43,7.05,5.54,GOOD ENTRY,-1.96,3.34,5.4,GOOD EXIT,Bad call,Good call,-0.46
+INDHOTEL,Bad Entry (but saved by good exit),1.43,7.05,5.54,GOOD ENTRY,-1.96,3.34,5.4,GOOD EXIT,Bad call,Good call,-0.46
+MEDANTA,EARLY EXIT (wasted good entry),0.69,7.67,6.93,GOOD ENTRY,1.86,10.27,8.26,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,8.82
+MEDANTA,EARLY EXIT (wasted good entry),0.69,7.67,6.93,GOOD ENTRY,1.86,10.27,8.26,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,8.82
+ETERNAL,EARLY EXIT (wasted good entry),3.41,-8.2,-11.23,Below 200 DMA | Death Cross (50<200),9.07,-2.45,-10.56,Sold during improving trend | HUGE MISS (37.6% left on table),Good call,Wrong early sell,37.56
+CHOLAFIN,EARLY EXIT (wasted good entry),1.4,6.94,5.46,GOOD ENTRY,6.31,13.17,6.45,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (15.1% left on table),Good call,Wrong early sell,15.11
+INDHOTEL,Bad Entry (but saved by good exit),1.86,7.3,5.33,GOOD ENTRY,-1.96,3.34,5.4,GOOD EXIT,Bad call,Good call,-0.46
+INDHOTEL,Bad Entry (but saved by good exit),1.86,7.3,5.33,GOOD ENTRY,-1.96,3.34,5.4,GOOD EXIT,Bad call,Good call,-0.46
+BAJAJFINSV,EARLY EXIT (wasted good entry),1.99,10.73,8.57,GOOD ENTRY,5.34,14.64,8.83,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,7.9
+BAJAJFINSV,EARLY EXIT (wasted good entry),1.99,10.73,8.57,GOOD ENTRY,5.34,14.64,8.83,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,7.9
+ASALCBR,Bad Entry (but saved by good exit),-10.86,5.69,18.57,GOOD ENTRY,-12.18,3.58,17.95,GOOD EXIT,Bad call,Good call,-0.03
+ASALCBR,Bad Entry (but saved by good exit),-10.86,5.69,18.57,GOOD ENTRY,-12.18,3.58,17.95,GOOD EXIT,Bad call,Good call,-0.03
+CHOLAFIN,BOTH: Bad Entry + Early Exit,5.29,11.64,6.04,GOOD ENTRY,6.31,13.17,6.45,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (15.1% left on table),Bad call,Wrong early sell,15.11
+CHAMBLFERT,WELL EXECUTED,13.39,31.19,15.7,Overbought (>15% above DMA),15.11,34.21,16.6,GOOD EXIT,Good call,Good call,-31.62
+CHAMBLFERT,WELL EXECUTED,13.39,31.19,15.7,Overbought (>15% above DMA),15.11,34.21,16.6,GOOD EXIT,Good call,Good call,-31.62
+CHAMBLFERT,WELL EXECUTED,13.39,31.19,15.7,Overbought (>15% above DMA),15.11,34.21,16.6,GOOD EXIT,Good call,Good call,-31.62
+CDSL,BOTH: Bad Entry + Early Exit,8.97,-7.57,-15.18,Below 200 DMA | Death Cross (50<200),4.88,-10.91,-15.06,Sold during improving trend | HUGE MISS (32.4% left on table),Bad call,Wrong early sell,32.38
+CDSL,BOTH: Bad Entry + Early Exit,8.97,-7.57,-15.18,Below 200 DMA | Death Cross (50<200),4.88,-10.91,-15.06,Sold during improving trend | HUGE MISS (32.4% left on table),Bad call,Wrong early sell,32.38
+CDSL,BOTH: Bad Entry + Early Exit,8.97,-7.57,-15.18,Below 200 DMA | Death Cross (50<200),4.88,-10.91,-15.06,Sold during improving trend | HUGE MISS (32.4% left on table),Bad call,Wrong early sell,32.38
+MEDANTA,EARLY EXIT (wasted good entry),-0.44,7.23,7.71,GOOD ENTRY,1.86,10.27,8.26,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,8.82
+MEDANTA,EARLY EXIT (wasted good entry),-0.44,7.23,7.71,GOOD ENTRY,1.86,10.27,8.26,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,8.82
+MEDANTA,EARLY EXIT (wasted good entry),-0.44,7.23,7.71,GOOD ENTRY,1.86,10.27,8.26,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,8.82
+AARTIPHARM,EARLY EXIT (wasted good entry),-4.43,6.98,11.94,GOOD ENTRY,8.05,19.43,10.54,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,4.34
+ASTRAZEN,BOTH: Bad Entry + Early Exit,4.9,15.31,9.93,Overbought (>15% above DMA) | GOOD ENTRY,-2.76,9.36,12.46,Sold during improving trend | Panic sold crossing below 50 DMA | Moderate miss (16.4% left on table),Bad call,Wrong early sell,16.4
+JLHL,WELL EXECUTED,-3.86,-0.38,3.62,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.85
+JLHL,WELL EXECUTED,-3.86,-0.38,3.62,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.85
+JLHL,WELL EXECUTED,-3.86,-0.38,3.62,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.85
+JLHL,WELL EXECUTED,-3.86,-0.38,3.62,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.84
+JLHL,WELL EXECUTED,-3.86,-0.38,3.62,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.84
+JLHL,WELL EXECUTED,-3.86,-0.38,3.62,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.8
+JLHL,WELL EXECUTED,-3.86,-0.38,3.62,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.79
+JLHL,WELL EXECUTED,-3.86,-0.38,3.62,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.78
+INDHOTEL,Bad Entry (but saved by good exit),-3.44,1.78,5.4,GOOD ENTRY,-1.96,3.34,5.4,GOOD EXIT,Bad call,Good call,-0.46
+INDHOTEL,Bad Entry (but saved by good exit),-3.44,1.78,5.4,GOOD ENTRY,-1.96,3.34,5.4,GOOD EXIT,Bad call,Good call,-0.46
+INDHOTEL,Bad Entry (but saved by good exit),-3.44,1.78,5.4,GOOD ENTRY,-1.96,3.34,5.4,GOOD EXIT,Bad call,Good call,-0.46
+INDHOTEL,Bad Entry (but saved by good exit),-3.44,1.78,5.4,GOOD ENTRY,-1.96,3.34,5.4,GOOD EXIT,Bad call,Good call,-0.46
+SHAILY,EARLY EXIT (wasted good entry),-5.74,20.3,27.62,Overbought (>15% above DMA) | GOOD ENTRY,2.33,30.34,27.36,Sold above both DMAs | HUGE MISS (49.4% left on table),Good call,Wrong early sell,49.36
+SHAILY,EARLY EXIT (wasted good entry),-5.74,20.3,27.62,Overbought (>15% above DMA) | GOOD ENTRY,2.33,30.34,27.36,Sold above both DMAs | HUGE MISS (49.4% left on table),Good call,Wrong early sell,49.36
+ETERNAL,EARLY EXIT (wasted good entry),5.13,-6.24,-10.82,Below 200 DMA | Death Cross (50<200),9.07,-2.45,-10.56,Sold during improving trend | HUGE MISS (37.6% left on table),Good call,Wrong early sell,37.56
+HCG,EARLY EXIT (wasted good entry),6.5,20.79,13.41,Overbought (>15% above DMA) | GOOD ENTRY,10.51,26.36,14.34,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (17.0% left on table),Good call,Wrong early sell,17.0
+HCG,EARLY EXIT (wasted good entry),6.5,20.79,13.41,Overbought (>15% above DMA) | GOOD ENTRY,10.51,26.36,14.34,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (17.0% left on table),Good call,Wrong early sell,17.01
+HCG,EARLY EXIT (wasted good entry),6.5,20.79,13.41,Overbought (>15% above DMA) | GOOD ENTRY,10.51,26.36,14.34,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (17.0% left on table),Good call,Wrong early sell,17.01
+HCG,EARLY EXIT (wasted good entry),4.16,18.16,13.44,Overbought (>15% above DMA) | GOOD ENTRY,10.51,26.36,14.34,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (17.0% left on table),Good call,Wrong early sell,17.01
+HCG,EARLY EXIT (wasted good entry),4.16,18.16,13.44,Overbought (>15% above DMA) | GOOD ENTRY,10.51,26.36,14.34,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (17.0% left on table),Good call,Wrong early sell,17.01
+HCG,EARLY EXIT (wasted good entry),4.16,18.16,13.44,Overbought (>15% above DMA) | GOOD ENTRY,10.51,26.36,14.34,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Moderate miss (17.0% left on table),Good call,Wrong early sell,17.01
+HCG,BOTH: Bad Entry + Early Exit,4.16,18.16,13.44,Overbought (>15% above DMA) | GOOD ENTRY,-3.61,10.36,14.5,Sold during improving trend | Panic sold crossing below 50 DMA | HUGE MISS (30.6% left on table),Bad call,Wrong early sell,30.6
+BAJAJHLDNG,EARLY EXIT (wasted good entry),-2.39,5.81,8.4,GOOD ENTRY,6.77,15.11,7.81,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,2.43
+BAJAJHLDNG,EARLY EXIT (wasted good entry),-2.39,5.81,8.4,GOOD ENTRY,6.77,15.11,7.81,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,2.43
+BAJAJHLDNG,EARLY EXIT (wasted good entry),-2.39,5.81,8.4,GOOD ENTRY,6.77,15.11,7.81,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,2.43
+BAJAJHLDNG,WELL EXECUTED,-2.39,5.81,8.4,GOOD ENTRY,8.4,17.24,8.15,GOOD EXIT,Good call,Good call,-1.94
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.37
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.37
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.37
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.34
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.33
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.33
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.33
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.33
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.33
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.33
+JASH,Bad Entry (but saved by good exit),-7.86,1.56,10.22,GOOD ENTRY,-8.98,0.29,10.19,GOOD EXIT,Bad call,Good call,-8.33
+JLHL,WELL EXECUTED,-3.8,-0.61,3.32,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.78
+JLHL,WELL EXECUTED,-3.8,-0.61,3.32,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.78
+JLHL,WELL EXECUTED,-3.8,-0.61,3.32,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.78
+JLHL,WELL EXECUTED,-3.8,-0.61,3.32,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.78
+HCG,EARLY EXIT (wasted good entry),4.89,19.07,13.52,Overbought (>15% above DMA) | GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.81
+HCG,EARLY EXIT (wasted good entry),4.89,19.07,13.52,Overbought (>15% above DMA) | GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.81
+HCG,EARLY EXIT (wasted good entry),4.89,19.07,13.52,Overbought (>15% above DMA) | GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.77
+INDHOTEL,BOTH: Bad Entry + Early Exit,-4.03,1.11,5.36,GOOD ENTRY,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+ETERNAL,EARLY EXIT (wasted good entry),2.47,-8.54,-10.75,Below 200 DMA | Death Cross (50<200),9.07,-2.45,-10.56,Sold during improving trend | HUGE MISS (37.6% left on table),Good call,Wrong early sell,37.56
+HAL,WELL EXECUTED,12.15,5.35,-6.06,Death Cross (50<200),21.76,19.0,-2.27,GOOD EXIT,Good call,Good call,-5.89
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.25
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.23
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.23
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.21
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.21
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.21
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.21
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.15
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.15
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.15
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.15
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.13
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.13
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.13
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.13
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.13
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.13
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+JAGSNPHARM,WELL EXECUTED,1.5,5.56,4.0,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+JUBLFOOD,Bad Entry (but saved by good exit),4.34,5.69,1.29,Weak DMA Diff (<3%),-0.75,2.19,2.96,GOOD EXIT,Bad call,Good call,-11.94
+JUBLFOOD,Bad Entry (but saved by good exit),4.34,5.69,1.29,Weak DMA Diff (<3%),-0.75,2.19,2.96,GOOD EXIT,Bad call,Good call,-11.95
+JLHL,WELL EXECUTED,-5.4,-2.48,3.09,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.75
+JLHL,WELL EXECUTED,-5.4,-2.48,3.09,Below 200 DMA,3.95,3.35,-0.57,GOOD EXIT,Good call,Good call,-0.75
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.16
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.13
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.13
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.13
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.13
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.13
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.11
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.11
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.11
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.11
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.11
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.15
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.15
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.15
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.15
+JASH,WELL EXECUTED,-1.21,8.78,10.11,GOOD ENTRY,6.81,7.59,0.73,GOOD EXIT,Good call,Good call,-19.15
+INDHOTEL,BOTH: Bad Entry + Early Exit,-1.53,3.47,5.07,GOOD ENTRY,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+INDHOTEL,BOTH: Bad Entry + Early Exit,-1.53,3.47,5.07,GOOD ENTRY,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+INDHOTEL,BOTH: Bad Entry + Early Exit,-1.53,3.47,5.07,GOOD ENTRY,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+ETERNAL,EARLY EXIT (wasted good entry),4.44,-6.77,-10.74,Below 200 DMA | Death Cross (50<200),9.07,-2.45,-10.56,Sold during improving trend | HUGE MISS (37.6% left on table),Good call,Wrong early sell,37.56
+ETERNAL,EARLY EXIT (wasted good entry),4.44,-6.77,-10.74,Below 200 DMA | Death Cross (50<200),9.07,-2.45,-10.56,Sold during improving trend | HUGE MISS (37.6% left on table),Good call,Wrong early sell,37.56
+ETERNAL,EARLY EXIT (wasted good entry),4.44,-6.77,-10.74,Below 200 DMA | Death Cross (50<200),9.07,-2.45,-10.56,Sold during improving trend | HUGE MISS (37.6% left on table),Good call,Wrong early sell,37.56
+ETERNAL,EARLY EXIT (wasted good entry),4.44,-6.77,-10.74,Below 200 DMA | Death Cross (50<200),6.71,-4.36,-10.38,Sold during improving trend | HUGE MISS (37.7% left on table),Good call,Wrong early sell,37.69
+MPSLTD,WELL EXECUTED,-3.5,7.71,11.62,GOOD ENTRY,5.02,15.76,10.22,GOOD EXIT,Good call,Good call,-14.72
+MPSLTD,WELL EXECUTED,-3.5,7.71,11.62,GOOD ENTRY,5.02,15.76,10.22,GOOD EXIT,Good call,Good call,-14.71
+MPSLTD,WELL EXECUTED,-3.5,7.71,11.62,GOOD ENTRY,5.02,15.76,10.22,GOOD EXIT,Good call,Good call,-14.7
+MPSLTD,WELL EXECUTED,-3.5,7.71,11.62,GOOD ENTRY,5.02,15.76,10.22,GOOD EXIT,Good call,Good call,-14.7
+MPSLTD,WELL EXECUTED,-3.5,7.71,11.62,GOOD ENTRY,5.02,15.76,10.22,GOOD EXIT,Good call,Good call,-14.7
+KIMS,EARLY EXIT (wasted good entry),8.79,16.14,6.75,Overbought (>15% above DMA) | GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),8.79,16.14,6.75,Overbought (>15% above DMA) | GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),8.79,16.14,6.75,Overbought (>15% above DMA) | GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),8.79,16.14,6.75,Overbought (>15% above DMA) | GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),8.79,16.14,6.75,Overbought (>15% above DMA) | GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),8.79,16.14,6.75,Overbought (>15% above DMA) | GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+SHAILY,EARLY EXIT (wasted good entry),6.02,35.1,27.43,Overbought (>15% above DMA) | GOOD ENTRY,16.55,32.61,13.78,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (11.4% left on table),Good call,Wrong early sell,11.37
+SHAILY,EARLY EXIT (wasted good entry),6.02,35.1,27.43,Overbought (>15% above DMA) | GOOD ENTRY,16.55,32.61,13.78,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (11.4% left on table),Good call,Wrong early sell,11.38
+SHAILY,EARLY EXIT (wasted good entry),6.02,35.1,27.43,Overbought (>15% above DMA) | GOOD ENTRY,16.55,32.61,13.78,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (11.4% left on table),Good call,Wrong early sell,11.38
+SHAILY,EARLY EXIT (wasted good entry),6.02,35.1,27.43,Overbought (>15% above DMA) | GOOD ENTRY,16.55,32.61,13.78,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (11.4% left on table),Good call,Wrong early sell,11.41
+SHAILY,EARLY EXIT (wasted good entry),6.02,35.1,27.43,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.8
+SHAILY,EARLY EXIT (wasted good entry),6.02,35.1,27.43,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.76
+SHAILY,EARLY EXIT (wasted good entry),6.02,35.1,27.43,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.75
+SHAILY,EARLY EXIT (wasted good entry),6.02,35.1,27.43,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.82
+SHAILY,EARLY EXIT (wasted good entry),6.02,35.1,27.43,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.82
+MUTHOOTFIN,BOTH: Bad Entry + Early Exit,2.38,10.65,8.08,GOOD ENTRY,-7.8,-0.9,7.49,Panic sold crossing below 50 DMA | HUGE MISS (53.6% left on table),Bad call,Wrong early sell,53.65
+MPSLTD,WELL EXECUTED,-0.72,10.58,11.39,GOOD ENTRY,5.02,15.76,10.22,GOOD EXIT,Good call,Good call,-14.7
+MPSLTD,WELL EXECUTED,-0.72,10.58,11.39,GOOD ENTRY,5.02,15.76,10.22,GOOD EXIT,Good call,Good call,-14.7
+JUBLFOOD,Bad Entry (but saved by good exit),3.91,5.13,1.17,Weak DMA Diff (<3%),-0.75,2.19,2.96,GOOD EXIT,Bad call,Good call,-11.95
+EICHERMOT,EARLY EXIT (wasted good entry),2.52,8.93,6.26,GOOD ENTRY,2.46,9.26,6.63,Sold above both DMAs | Sold during improving trend | Large miss (23.0% left on table),Good call,Wrong early sell,22.99
+EICHERMOT,EARLY EXIT (wasted good entry),2.52,8.93,6.26,GOOD ENTRY,2.46,9.26,6.63,Sold above both DMAs | Sold during improving trend | Large miss (23.0% left on table),Good call,Wrong early sell,22.99
+KIMS,EARLY EXIT (wasted good entry),5.26,12.58,6.96,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+INDHOTEL,BOTH: Bad Entry + Early Exit,-1.51,3.41,4.99,No specific issue,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.79
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.78
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.78
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.78
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.79
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.81
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.81
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.81
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.81
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.81
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.78
+TARIL,Bad Entry (but saved by good exit),6.57,14.59,7.52,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.8
+MUTHOOTFIN,EARLY EXIT (wasted good entry),-4.63,2.93,7.93,GOOD ENTRY,1.29,7.76,6.38,Sold above both DMAs | HUGE MISS (43.1% left on table),Good call,Wrong early sell,43.15
+MUTHOOTFIN,EARLY EXIT (wasted good entry),-4.63,2.93,7.93,GOOD ENTRY,1.29,7.76,6.38,Sold above both DMAs | HUGE MISS (43.1% left on table),Good call,Wrong early sell,43.15
+MUTHOOTFIN,EARLY EXIT (wasted good entry),-4.63,2.93,7.93,GOOD ENTRY,1.29,7.76,6.38,Sold above both DMAs | HUGE MISS (43.2% left on table),Good call,Wrong early sell,43.16
+MUTHOOTFIN,EARLY EXIT (wasted good entry),-4.63,2.93,7.93,GOOD ENTRY,1.29,7.76,6.38,Sold above both DMAs | HUGE MISS (43.2% left on table),Good call,Wrong early sell,43.16
+MUTHOOTFIN,EARLY EXIT (wasted good entry),-4.63,2.93,7.93,GOOD ENTRY,1.29,7.76,6.38,Sold above both DMAs | HUGE MISS (43.2% left on table),Good call,Wrong early sell,43.16
+KIMS,EARLY EXIT (wasted good entry),5.42,13.01,7.2,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+SHAILY,EARLY EXIT (wasted good entry),-0.31,26.82,27.21,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.82
+ANANTRAJ,EARLY EXIT (wasted good entry),8.1,-18.74,-24.82,Below 200 DMA | Death Cross (50<200),6.33,-19.63,-24.42,Sold during improving trend | Large miss (23.1% left on table),Good call,Wrong early sell,23.05
+ANANTRAJ,EARLY EXIT (wasted good entry),8.1,-18.74,-24.82,Below 200 DMA | Death Cross (50<200),6.33,-19.63,-24.42,Sold during improving trend | Large miss (23.1% left on table),Good call,Wrong early sell,23.05
+ANANTRAJ,EARLY EXIT (wasted good entry),8.1,-18.74,-24.82,Below 200 DMA | Death Cross (50<200),6.33,-19.63,-24.42,Sold during improving trend | Large miss (23.1% left on table),Good call,Wrong early sell,23.06
+ANANTRAJ,EARLY EXIT (wasted good entry),8.1,-18.74,-24.82,Below 200 DMA | Death Cross (50<200),6.33,-19.63,-24.42,Sold during improving trend | Large miss (23.1% left on table),Good call,Wrong early sell,23.06
+ANANTRAJ,EARLY EXIT (wasted good entry),8.1,-18.74,-24.82,Below 200 DMA | Death Cross (50<200),6.33,-19.63,-24.42,Sold during improving trend | Large miss (23.1% left on table),Good call,Wrong early sell,23.06
+CHAMBLFERT,Bad Entry (but saved by good exit),-0.03,18.18,18.21,Overbought (>15% above DMA) | GOOD ENTRY,-7.2,10.08,18.62,GOOD EXIT,Bad call,Good call,-17.65
+WELCORP,WELL EXECUTED,-1.12,4.57,5.75,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+WELCORP,WELL EXECUTED,-1.12,4.57,5.75,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+METALIETF,EARLY EXIT (wasted good entry),,,,No specific issue,4.26,2.99,-1.22,Sold above both DMAs | Moderate miss (13.7% left on table),Good call,Wrong early sell,13.71
+METALIETF,EARLY EXIT (wasted good entry),,,,No specific issue,4.26,2.99,-1.22,Sold above both DMAs | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.84
+METALIETF,EARLY EXIT (wasted good entry),,,,No specific issue,4.26,2.99,-1.22,Sold above both DMAs | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.84
+METALIETF,EARLY EXIT (wasted good entry),,,,No specific issue,4.26,2.99,-1.22,Sold above both DMAs | Moderate miss (13.8% left on table),Good call,Wrong early sell,13.84
+METALIETF,EARLY EXIT (wasted good entry),,,,No specific issue,4.26,2.99,-1.22,Sold above both DMAs | Moderate miss (13.6% left on table),Good call,Wrong early sell,13.59
+BANKBEES,EARLY EXIT (wasted good entry),6.52,7.89,1.28,Weak DMA Diff (<3%),1.83,7.13,5.21,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,5.33
+BANKBEES,EARLY EXIT (wasted good entry),6.52,7.89,1.28,Weak DMA Diff (<3%),1.83,7.13,5.21,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,5.33
+ABB,WELL EXECUTED,8.57,-12.91,-19.79,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Good call,Good call,-12.23
+ABB,WELL EXECUTED,8.57,-12.91,-19.79,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Good call,Good call,-12.23
+ABB,WELL EXECUTED,8.57,-12.91,-19.79,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Good call,Good call,-12.22
+MOTILALOFS,EARLY EXIT (wasted good entry),22.52,4.29,-14.88,Death Cross (50<200) | Overbought (>15% above DMA),14.76,7.31,-6.5,Sold above both DMAs | Sold during improving trend | Large miss (25.8% left on table),Good call,Wrong early sell,25.84
+TRENT,WELL EXECUTED,7.63,-11.11,-17.41,Below 200 DMA | Death Cross (50<200),4.64,-9.74,-13.75,GOOD EXIT,Good call,Good call,-16.37
+EICHERMOT,EARLY EXIT (wasted good entry),3.3,10.05,6.54,GOOD ENTRY,2.46,9.26,6.63,Sold above both DMAs | Sold during improving trend | Large miss (23.0% left on table),Good call,Wrong early sell,22.99
+EICHERMOT,EARLY EXIT (wasted good entry),3.3,10.05,6.54,GOOD ENTRY,2.46,9.26,6.63,Sold above both DMAs | Sold during improving trend | Large miss (23.0% left on table),Good call,Wrong early sell,22.99
+KIMS,EARLY EXIT (wasted good entry),4.48,12.2,7.38,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),4.48,12.2,7.38,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),4.48,12.2,7.38,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),4.48,12.2,7.38,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+PGEL,Bad Entry (but saved by good exit),-8.15,8.56,18.19,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Bad call,Good call,-28.43
+PGEL,Bad Entry (but saved by good exit),-8.15,8.56,18.19,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Bad call,Good call,-28.42
+BHARTIARTL,EARLY EXIT (wasted good entry),3.34,10.39,6.82,GOOD ENTRY,0.87,11.45,10.49,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,9.59
+ELECON,Bad Entry (but saved by good exit),35.62,16.72,-13.94,Death Cross (50<200) | Overbought (>15% above DMA),-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+ELECON,Bad Entry (but saved by good exit),35.62,16.72,-13.94,Death Cross (50<200) | Overbought (>15% above DMA),-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+ADANIGREEN,BOTH: Bad Entry + Early Exit,12.27,-21.88,-30.41,Below 200 DMA | Death Cross (50<200),-2.9,-10.28,-7.6,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.43
+INDHOTEL,BOTH: Bad Entry + Early Exit,-2.21,2.7,5.02,GOOD ENTRY,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+INDHOTEL,BOTH: Bad Entry + Early Exit,-2.21,2.7,5.02,GOOD ENTRY,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+INDHOTEL,BOTH: Bad Entry + Early Exit,-2.21,2.7,5.02,GOOD ENTRY,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.88
+TARIL,Bad Entry (but saved by good exit),4.85,13.21,7.97,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.8
+TARIL,Bad Entry (but saved by good exit),4.85,13.21,7.97,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.8
+DIXON,Bad Entry (but saved by good exit),13.41,12.61,-0.71,Death Cross (50<200),-4.74,3.45,8.59,GOOD EXIT,Bad call,Good call,-4.58
+WELCORP,WELL EXECUTED,-0.38,5.38,5.79,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+JAGSNPHARM,WELL EXECUTED,-3.1,0.06,3.25,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+JAGSNPHARM,WELL EXECUTED,-3.1,0.06,3.25,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+JAGSNPHARM,WELL EXECUTED,-3.1,0.06,3.25,No specific issue,5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),8.01,-17.54,-23.66,Sold during improving trend | Large miss (20.3% left on table),Good call,Wrong early sell,20.26
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),8.01,-17.54,-23.66,Sold during improving trend | Large miss (20.3% left on table),Good call,Wrong early sell,20.26
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),8.01,-17.54,-23.66,Sold during improving trend | Large miss (20.3% left on table),Good call,Wrong early sell,20.27
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),8.01,-17.54,-23.66,Sold during improving trend | Large miss (20.3% left on table),Good call,Wrong early sell,20.27
+JUBLFOOD,Bad Entry (but saved by good exit),3.78,4.98,1.16,Weak DMA Diff (<3%),-0.75,2.19,2.96,GOOD EXIT,Bad call,Good call,-11.95
+POLICYBZR,WELL EXECUTED,7.79,-0.79,-7.96,Below 200 DMA | Death Cross (50<200),11.62,9.05,-2.3,GOOD EXIT,Good call,Good call,-5.47
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Good call,Wrong early sell,10.43
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Good call,Wrong early sell,10.44
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Good call,Wrong early sell,10.44
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Good call,Wrong early sell,10.44
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Good call,Wrong early sell,10.44
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Good call,Wrong early sell,10.44
+ANANTRAJ,EARLY EXIT (wasted good entry),9.16,-17.73,-24.63,Below 200 DMA | Death Cross (50<200),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Good call,Wrong early sell,10.44
+DLF,WELL EXECUTED,10.0,-4.87,-13.52,Below 200 DMA | Death Cross (50<200),2.37,5.64,3.19,GOOD EXIT,Good call,Good call,-4.86
+DLF,WELL EXECUTED,10.0,-4.87,-13.52,Below 200 DMA | Death Cross (50<200),2.37,5.64,3.19,GOOD EXIT,Good call,Good call,-4.86
+KIMS,EARLY EXIT (wasted good entry),4.84,12.83,7.61,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),4.84,12.83,7.61,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),4.84,12.83,7.61,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),4.84,12.83,7.61,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),4.84,12.83,7.61,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+PGEL,WELL EXECUTED,-10.03,6.07,17.89,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Good call,Good call,-28.42
+PGEL,WELL EXECUTED,-10.03,6.07,17.89,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Good call,Good call,-28.42
+ADANIGREEN,BOTH: Bad Entry + Early Exit,11.01,-22.11,-29.84,Below 200 DMA | Death Cross (50<200),-2.9,-10.28,-7.6,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,1.43
+SHAILY,EARLY EXIT (wasted good entry),-0.78,25.94,26.93,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.82
+SHAILY,EARLY EXIT (wasted good entry),-0.78,25.94,26.93,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.81
+TAJGVK,WELL EXECUTED,-6.45,11.93,19.65,GOOD ENTRY,3.35,21.65,17.71,GOOD EXIT,Good call,Good call,-6.5
+TAJGVK,WELL EXECUTED,-6.45,11.93,19.65,GOOD ENTRY,3.35,21.65,17.71,GOOD EXIT,Good call,Good call,-6.5
+TAJGVK,WELL EXECUTED,-6.45,11.93,19.65,GOOD ENTRY,3.35,21.65,17.71,GOOD EXIT,Good call,Good call,-6.5
+TAJGVK,WELL EXECUTED,-6.45,11.93,19.65,GOOD ENTRY,3.35,21.65,17.71,GOOD EXIT,Good call,Good call,-6.5
+WELCORP,WELL EXECUTED,-2.25,3.51,5.9,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+WELCORP,WELL EXECUTED,-2.25,3.51,5.9,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+WELCORP,WELL EXECUTED,-2.25,3.51,5.9,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+WELCORP,WELL EXECUTED,-2.25,3.51,5.9,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+WELCORP,WELL EXECUTED,-2.25,3.51,5.9,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+WELCORP,WELL EXECUTED,-2.25,3.51,5.9,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+ETERNAL,EARLY EXIT (wasted good entry),2.28,-8.29,-10.33,Below 200 DMA | Death Cross (50<200),5.68,-4.18,-9.33,Sold during improving trend | HUGE MISS (41.4% left on table),Good call,Wrong early sell,41.36
+ETERNAL,EARLY EXIT (wasted good entry),2.28,-8.29,-10.33,Below 200 DMA | Death Cross (50<200),5.68,-4.18,-9.33,Sold during improving trend | HUGE MISS (41.4% left on table),Good call,Wrong early sell,41.36
+ETERNAL,EARLY EXIT (wasted good entry),2.28,-8.29,-10.33,Below 200 DMA | Death Cross (50<200),5.68,-4.18,-9.33,Sold during improving trend | HUGE MISS (41.4% left on table),Good call,Wrong early sell,41.36
+ETERNAL,EARLY EXIT (wasted good entry),2.28,-8.29,-10.33,Below 200 DMA | Death Cross (50<200),5.68,-4.18,-9.33,Sold during improving trend | HUGE MISS (41.4% left on table),Good call,Wrong early sell,41.36
+ETERNAL,EARLY EXIT (wasted good entry),2.28,-8.29,-10.33,Below 200 DMA | Death Cross (50<200),5.68,-4.18,-9.33,Sold during improving trend | HUGE MISS (41.4% left on table),Good call,Wrong early sell,41.36
+JUBLFOOD,Bad Entry (but saved by good exit),1.38,2.63,1.23,Weak DMA Diff (<3%),-0.75,2.19,2.96,GOOD EXIT,Bad call,Good call,-11.95
+JUBLFOOD,Bad Entry (but saved by good exit),1.38,2.63,1.23,Weak DMA Diff (<3%),-0.75,2.19,2.96,GOOD EXIT,Bad call,Good call,-11.95
+JUBLFOOD,Bad Entry (but saved by good exit),1.38,2.63,1.23,Weak DMA Diff (<3%),-0.75,2.19,2.96,GOOD EXIT,Bad call,Good call,-11.95
+KAYNES,BOTH: Bad Entry + Early Exit,15.01,11.09,-3.41,Death Cross (50<200) | Overbought (>15% above DMA),-3.66,-0.59,3.18,Sold during improving trend | Panic sold crossing below 50 DMA | Large miss (24.3% left on table),Bad call,Wrong early sell,24.33
+PREMIERENE,BOTH: Bad Entry + Early Exit,,,,No specific issue,,,,N/A,Bad call,Wrong early sell,7.1
+PREMIERENE,BOTH: Bad Entry + Early Exit,,,,No specific issue,,,,N/A,Bad call,Wrong early sell,7.1
+DOMS,BOTH: Bad Entry + Early Exit,-8.31,-4.98,3.64,Below 200 DMA,-11.83,-13.2,-1.56,N/A,Bad call,Wrong early sell,8.27
+DOMS,BOTH: Bad Entry + Early Exit,-8.31,-4.98,3.64,Below 200 DMA,-11.83,-13.2,-1.56,N/A,Bad call,Wrong early sell,8.28
+DOMS,BOTH: Bad Entry + Early Exit,-8.31,-4.98,3.64,Below 200 DMA,-11.83,-13.2,-1.56,N/A,Bad call,Wrong early sell,8.3
+DOMS,BOTH: Bad Entry + Early Exit,-8.31,-4.98,3.64,Below 200 DMA,-11.83,-13.2,-1.56,N/A,Bad call,Wrong early sell,8.3
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.16
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.16
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.18
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.18
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.18
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.18
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.2
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.2
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.2
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.2
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.2
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.21
+E2E,BOTH: Bad Entry + Early Exit,24.7,-8.42,-26.56,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.22
+NETWEB,BOTH: Bad Entry + Early Exit,15.91,-18.93,-30.06,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.39,-18.16,-22.34,Sold during improving trend | HUGE MISS (118.1% left on table),Bad call,Wrong early sell,118.13
+PRESTIGE,EARLY EXIT (wasted good entry),14.48,-7.6,-19.29,Below 200 DMA | Death Cross (50<200),20.13,8.97,-9.29,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,9.66
+PRESTIGE,EARLY EXIT (wasted good entry),14.48,-7.6,-19.29,Below 200 DMA | Death Cross (50<200),20.13,8.97,-9.29,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,9.66
+EICHERMOT,EARLY EXIT (wasted good entry),0.54,7.5,6.92,GOOD ENTRY,2.46,9.26,6.63,Sold above both DMAs | Large miss (23.0% left on table),Good call,Wrong early sell,22.99
+PGEL,Bad Entry (but saved by good exit),-6.09,10.49,17.65,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Bad call,Good call,-28.42
+BHARTIARTL,EARLY EXIT (wasted good entry),2.51,9.86,7.17,GOOD ENTRY,0.87,11.45,10.49,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,9.59
+INDHOTEL,BOTH: Bad Entry + Early Exit,-4.14,0.72,5.08,GOOD ENTRY,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.88
+INDHOTEL,BOTH: Bad Entry + Early Exit,-4.14,0.72,5.08,GOOD ENTRY,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+SHAILY,EARLY EXIT (wasted good entry),7.03,35.76,26.85,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.81
+SHAILY,EARLY EXIT (wasted good entry),7.03,35.76,26.85,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.81
+SHAILY,EARLY EXIT (wasted good entry),7.03,35.76,26.85,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.81
+SHAILY,EARLY EXIT (wasted good entry),7.03,35.76,26.85,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.82
+POLICYBZR,WELL EXECUTED,9.12,0.97,-7.48,Death Cross (50<200),11.62,9.05,-2.3,GOOD EXIT,Good call,Good call,-5.47
+POLICYBZR,WELL EXECUTED,9.12,0.97,-7.48,Death Cross (50<200),11.62,9.05,-2.3,GOOD EXIT,Good call,Good call,-5.46
+DLF,WELL EXECUTED,14.78,0.11,-12.79,Death Cross (50<200),2.37,5.64,3.19,GOOD EXIT,Good call,Good call,-4.86
+TARIL,WELL EXECUTED,2.31,11.82,9.29,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Good call,Good call,-5.8
+DIXON,WELL EXECUTED,5.33,5.03,-0.29,Death Cross (50<200),-4.74,3.45,8.59,GOOD EXIT,Good call,Good call,-4.58
+PARADEEP,WELL EXECUTED,25.91,48.95,18.29,Overbought (>15% above DMA),17.95,55.48,31.82,GOOD EXIT,Good call,Good call,-4.25
+PARADEEP,WELL EXECUTED,25.91,48.95,18.29,Overbought (>15% above DMA),17.95,55.48,31.82,GOOD EXIT,Good call,Good call,-4.22
+PGEL,WELL EXECUTED,-13.37,1.15,16.76,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Good call,Good call,-28.42
+PGEL,WELL EXECUTED,-13.37,1.15,16.76,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Good call,Good call,-28.42
+PGEL,WELL EXECUTED,-13.37,1.15,16.76,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Good call,Good call,-28.42
+PGEL,WELL EXECUTED,-13.37,1.15,16.76,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Good call,Good call,-28.42
+PGEL,WELL EXECUTED,-13.37,1.15,16.76,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Good call,Good call,-28.42
+PGEL,WELL EXECUTED,-13.37,1.15,16.76,GOOD ENTRY,1.97,-0.79,-2.7,GOOD EXIT,Good call,Good call,-28.42
+PGEL,BOTH: Bad Entry + Early Exit,-13.37,1.15,16.76,GOOD ENTRY,-35.5,-39.61,-6.38,Moderate miss (13.9% left on table),Bad call,Wrong early sell,13.91
+PGEL,BOTH: Bad Entry + Early Exit,-13.37,1.15,16.76,GOOD ENTRY,-35.5,-39.61,-6.38,Moderate miss (13.9% left on table),Bad call,Wrong early sell,13.91
+DIXON,WELL EXECUTED,2.26,1.95,-0.3,Death Cross (50<200),-4.74,3.45,8.59,GOOD EXIT,Good call,Good call,-4.58
+JAGSNPHARM,WELL EXECUTED,-4.23,-1.7,2.65,Below 200 DMA | Weak DMA Diff (<3%),5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+JAGSNPHARM,WELL EXECUTED,-4.23,-1.7,2.65,Below 200 DMA | Weak DMA Diff (<3%),5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+JAGSNPHARM,WELL EXECUTED,-4.23,-1.7,2.65,Below 200 DMA | Weak DMA Diff (<3%),5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+JAGSNPHARM,WELL EXECUTED,-4.23,-1.7,2.65,Below 200 DMA | Weak DMA Diff (<3%),5.82,8.42,2.45,GOOD EXIT,Good call,Good call,-5.11
+WELCORP,WELL EXECUTED,-4.07,1.48,5.78,GOOD ENTRY,12.54,18.63,5.4,GOOD EXIT,Good call,Good call,-1.65
+RADICO,EARLY EXIT (wasted good entry),2.18,9.75,7.41,GOOD ENTRY,4.57,13.36,8.4,Sold above both DMAs | Sold during improving trend | Large miss (25.4% left on table),Good call,Wrong early sell,25.4
+RADICO,EARLY EXIT (wasted good entry),2.18,9.75,7.41,GOOD ENTRY,4.57,13.36,8.4,Sold above both DMAs | Sold during improving trend | Large miss (25.4% left on table),Good call,Wrong early sell,25.4
+UNIVASTU,WELL EXECUTED,-2.64,-1.4,1.28,Below 200 DMA | Weak DMA Diff (<3%),-1.43,-0.38,1.07,GOOD EXIT,Good call,Good call,-70.96
+UNIVASTU,WELL EXECUTED,-2.64,-1.4,1.28,Below 200 DMA | Weak DMA Diff (<3%),-1.43,-0.38,1.07,GOOD EXIT,Good call,Good call,-70.9
+UNIVASTU,WELL EXECUTED,-2.64,-1.4,1.28,Below 200 DMA | Weak DMA Diff (<3%),-1.43,-0.38,1.07,GOOD EXIT,Good call,Good call,-70.9
+UNIVASTU,WELL EXECUTED,-2.64,-1.4,1.28,Below 200 DMA | Weak DMA Diff (<3%),-1.43,-0.38,1.07,GOOD EXIT,Good call,Good call,-70.9
+UNIVASTU,WELL EXECUTED,-2.64,-1.4,1.28,Below 200 DMA | Weak DMA Diff (<3%),-1.43,-0.38,1.07,GOOD EXIT,Good call,Good call,-70.88
+UNIVASTU,WELL EXECUTED,-2.64,-1.4,1.28,Below 200 DMA | Weak DMA Diff (<3%),-1.43,-0.38,1.07,GOOD EXIT,Good call,Good call,-70.88
+UNIVASTU,WELL EXECUTED,-2.64,-1.4,1.28,Below 200 DMA | Weak DMA Diff (<3%),-1.43,-0.38,1.07,GOOD EXIT,Good call,Good call,-70.85
+UNIVASTU,WELL EXECUTED,-2.64,-1.4,1.28,Below 200 DMA | Weak DMA Diff (<3%),-1.43,-0.38,1.07,GOOD EXIT,Good call,Good call,-70.85
+EICHERMOT,EARLY EXIT (wasted good entry),0.29,7.6,7.28,GOOD ENTRY,2.46,9.26,6.63,Sold above both DMAs | Large miss (23.0% left on table),Good call,Wrong early sell,22.99
+DIXON,WELL EXECUTED,1.14,0.82,-0.31,Death Cross (50<200),-4.74,3.45,8.59,GOOD EXIT,Good call,Good call,-4.58
+ETERNAL,EARLY EXIT (wasted good entry),1.38,-8.93,-10.17,Below 200 DMA | Death Cross (50<200),5.68,-4.18,-9.33,Sold during improving trend | HUGE MISS (41.4% left on table),Good call,Wrong early sell,41.36
+JUBLFOOD,WELL EXECUTED,-1.56,0.25,1.84,Weak DMA Diff (<3%),-0.75,2.19,2.96,GOOD EXIT,Good call,Good call,-11.95
+JUBLFOOD,WELL EXECUTED,-1.56,0.25,1.84,Weak DMA Diff (<3%),-0.75,2.19,2.96,GOOD EXIT,Good call,Good call,-11.95
+POLICYBZR,WELL EXECUTED,10.64,3.9,-6.1,Death Cross (50<200),11.62,9.05,-2.3,GOOD EXIT,Good call,Good call,-5.46
+POLICYBZR,WELL EXECUTED,10.64,3.9,-6.1,Death Cross (50<200),11.62,9.05,-2.3,GOOD EXIT,Good call,Good call,-5.46
+PREMIERENE,BOTH: Bad Entry + Early Exit,,,,No specific issue,,,,N/A,Bad call,Wrong early sell,7.1
+DOMS,BOTH: Bad Entry + Early Exit,-13.4,-10.93,2.84,Below 200 DMA | Weak DMA Diff (<3%),-11.83,-13.2,-1.56,N/A,Bad call,Wrong early sell,8.3
+DOMS,BOTH: Bad Entry + Early Exit,-13.4,-10.93,2.84,Below 200 DMA | Weak DMA Diff (<3%),-11.83,-13.2,-1.56,N/A,Bad call,Wrong early sell,8.3
+DOMS,BOTH: Bad Entry + Early Exit,-13.4,-10.93,2.84,Below 200 DMA | Weak DMA Diff (<3%),-11.83,-13.2,-1.56,N/A,Bad call,Wrong early sell,8.31
+E2E,BOTH: Bad Entry + Early Exit,24.63,-5.31,-24.02,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.22
+E2E,BOTH: Bad Entry + Early Exit,24.63,-5.31,-24.02,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.22
+E2E,BOTH: Bad Entry + Early Exit,24.63,-5.31,-24.02,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.22
+E2E,BOTH: Bad Entry + Early Exit,24.63,-5.31,-24.02,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.22
+NETWEB,BOTH: Bad Entry + Early Exit,21.59,-12.79,-28.28,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.39,-18.16,-22.34,Sold during improving trend | HUGE MISS (118.1% left on table),Bad call,Wrong early sell,118.13
+NETWEB,BOTH: Bad Entry + Early Exit,21.59,-12.79,-28.28,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.39,-18.16,-22.34,Sold during improving trend | HUGE MISS (118.1% left on table),Bad call,Wrong early sell,118.13
+NETWEB,BOTH: Bad Entry + Early Exit,21.59,-12.79,-28.28,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.39,-18.16,-22.34,Sold during improving trend | HUGE MISS (118.1% left on table),Bad call,Wrong early sell,118.13
+ABB,Bad Entry (but saved by good exit),10.07,-9.15,-17.45,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Bad call,Good call,-12.22
+DLF,WELL EXECUTED,13.07,0.17,-11.41,Death Cross (50<200),2.37,5.64,3.19,GOOD EXIT,Good call,Good call,-4.86
+KIMS,EARLY EXIT (wasted good entry),3.38,13.03,9.34,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),3.38,13.03,9.34,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+PGEL,BOTH: Bad Entry + Early Exit,-11.65,1.66,15.06,GOOD ENTRY,-35.5,-39.61,-6.38,Moderate miss (13.9% left on table),Bad call,Wrong early sell,13.91
+TARIL,Bad Entry (but saved by good exit),3.72,14.58,10.48,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.8
+TARIL,Bad Entry (but saved by good exit),3.72,14.58,10.48,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.81
+TARIL,Bad Entry (but saved by good exit),3.72,14.58,10.48,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.81
+TARIL,Bad Entry (but saved by good exit),3.72,14.58,10.48,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.81
+DIXON,WELL EXECUTED,1.19,1.06,-0.14,Death Cross (50<200),-4.74,3.45,8.59,GOOD EXIT,Good call,Good call,-4.58
+SHAILY,EARLY EXIT (wasted good entry),6.29,33.27,25.38,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.82
+SHAILY,EARLY EXIT (wasted good entry),6.29,33.27,25.38,Overbought (>15% above DMA) | GOOD ENTRY,9.76,35.92,23.84,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,3.82
+INDHOTEL,BOTH: Bad Entry + Early Exit,-3.35,1.33,4.84,No specific issue,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+PGEL,BOTH: Bad Entry + Early Exit,-10.63,1.89,14.02,GOOD ENTRY,-35.5,-39.61,-6.38,Moderate miss (13.9% left on table),Bad call,Wrong early sell,13.91
+DIXON,WELL EXECUTED,-1.13,-1.07,0.07,Below 200 DMA | Weak DMA Diff (<3%),-4.74,3.45,8.59,GOOD EXIT,Good call,Good call,-4.58
+CDSL,WELL EXECUTED,18.3,6.24,-10.2,Death Cross (50<200) | Overbought (>15% above DMA),31.31,22.43,-6.76,GOOD EXIT,Good call,Good call,-7.86
+CDSL,WELL EXECUTED,18.3,6.24,-10.2,Death Cross (50<200) | Overbought (>15% above DMA),31.31,22.43,-6.76,GOOD EXIT,Good call,Good call,-7.85
+E2E,BOTH: Bad Entry + Early Exit,21.52,-5.72,-22.42,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.22
+E2E,BOTH: Bad Entry + Early Exit,21.52,-5.72,-22.42,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.24
+E2E,BOTH: Bad Entry + Early Exit,21.52,-5.72,-22.42,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.25
+E2E,BOTH: Bad Entry + Early Exit,21.52,-5.72,-22.42,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.25
+NETWEB,BOTH: Bad Entry + Early Exit,24.02,-9.17,-26.76,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.39,-18.16,-22.34,Sold during improving trend | HUGE MISS (118.1% left on table),Bad call,Wrong early sell,118.13
+NETWEB,BOTH: Bad Entry + Early Exit,24.02,-9.17,-26.76,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.39,-18.16,-22.34,Sold during improving trend | HUGE MISS (118.1% left on table),Bad call,Wrong early sell,118.13
+NETWEB,BOTH: Bad Entry + Early Exit,24.02,-9.17,-26.76,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.39,-18.16,-22.34,Sold during improving trend | HUGE MISS (118.1% left on table),Bad call,Wrong early sell,118.13
+ABB,Bad Entry (but saved by good exit),8.19,-9.46,-16.31,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Bad call,Good call,-12.22
+TRENT,WELL EXECUTED,6.59,-10.13,-15.69,Below 200 DMA | Death Cross (50<200),4.64,-9.74,-13.75,GOOD EXIT,Good call,Good call,-16.37
+KEI,EARLY EXIT (wasted good entry),16.53,-6.3,-19.6,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Good call,Wrong early sell,11.99
+KEI,EARLY EXIT (wasted good entry),16.53,-6.3,-19.6,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Good call,Wrong early sell,11.99
+KPITTECH,Bad Entry (but saved by good exit),5.78,-7.67,-12.71,Below 200 DMA | Death Cross (50<200),-4.66,-7.98,-3.48,GOOD EXIT,Bad call,Good call,-4.66
+JSWSTEEL,EARLY EXIT (wasted good entry),-1.98,2.2,4.26,No specific issue,1.94,5.25,3.25,Sold above both DMAs | Moderate miss (10.1% left on table),Good call,Wrong early sell,10.12
+NETWEB,BOTH: Bad Entry + Early Exit,24.02,-9.17,-26.76,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),2.74,-6.46,-8.96,Sold during improving trend | HUGE MISS (102.7% left on table),Bad call,Wrong early sell,102.72
+NETWEB,BOTH: Bad Entry + Early Exit,24.02,-9.17,-26.76,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),2.74,-6.46,-8.96,Sold during improving trend | HUGE MISS (102.7% left on table),Bad call,Wrong early sell,102.73
+VBL,WELL EXECUTED,-8.33,-16.33,-8.73,Below 200 DMA | Death Cross (50<200),1.2,-11.63,-12.68,GOOD EXIT,Good call,Good call,-5.03
+PGEL,BOTH: Bad Entry + Early Exit,-10.39,1.79,13.59,GOOD ENTRY,-35.5,-39.61,-6.38,Moderate miss (13.9% left on table),Bad call,Wrong early sell,13.91
+TARIL,Bad Entry (but saved by good exit),3.1,15.14,11.68,Overbought (>15% above DMA) | GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.81
+DIXON,WELL EXECUTED,-2.09,-1.95,0.14,Below 200 DMA | Weak DMA Diff (<3%),-4.74,3.45,8.59,GOOD EXIT,Good call,Good call,-4.58
+CDSL,WELL EXECUTED,28.9,16.72,-9.45,Death Cross (50<200) | Overbought (>15% above DMA),31.31,22.43,-6.76,GOOD EXIT,Good call,Good call,-7.85
+CDSL,WELL EXECUTED,28.9,16.72,-9.45,Death Cross (50<200) | Overbought (>15% above DMA),31.31,22.43,-6.76,GOOD EXIT,Good call,Good call,-7.85
+CDSL,WELL EXECUTED,28.9,16.72,-9.45,Death Cross (50<200) | Overbought (>15% above DMA),31.31,22.43,-6.76,GOOD EXIT,Good call,Good call,-7.85
+CDSL,WELL EXECUTED,28.9,16.72,-9.45,Death Cross (50<200) | Overbought (>15% above DMA),31.31,22.43,-6.76,GOOD EXIT,Good call,Good call,-7.85
+CDSL,WELL EXECUTED,28.9,16.72,-9.45,Death Cross (50<200) | Overbought (>15% above DMA),31.31,22.43,-6.76,GOOD EXIT,Good call,Good call,-7.85
+CDSL,WELL EXECUTED,28.9,16.72,-9.45,Death Cross (50<200) | Overbought (>15% above DMA),31.31,22.43,-6.76,GOOD EXIT,Good call,Good call,-7.85
+E2E,BOTH: Bad Entry + Early Exit,21.59,-5.01,-21.88,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),5.13,-14.81,-18.97,Sold during improving trend | Large miss (20.2% left on table),Bad call,Wrong early sell,20.25
+ABB,WELL EXECUTED,7.93,-9.27,-15.93,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Good call,Good call,-12.22
+ABB,WELL EXECUTED,7.93,-9.27,-15.93,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Good call,Good call,-12.22
+ABB,WELL EXECUTED,7.93,-9.27,-15.93,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Good call,Good call,-12.22
+ABB,WELL EXECUTED,7.93,-9.27,-15.93,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Good call,Good call,-12.22
+ABB,WELL EXECUTED,7.93,-9.27,-15.93,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Good call,Good call,-12.22
+ABB,WELL EXECUTED,7.93,-9.27,-15.93,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Good call,Good call,-12.22
+NETWEB,BOTH: Bad Entry + Early Exit,20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),2.74,-6.46,-8.96,Sold during improving trend | HUGE MISS (102.7% left on table),Bad call,Wrong early sell,102.73
+E2E,BOTH: Bad Entry + Early Exit,21.59,-5.01,-21.88,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),-17.53,-29.27,-14.24,Sold during improving trend | Panic sold crossing below 50 DMA | HUGE MISS (62.0% left on table),Bad call,Wrong early sell,62.03
+E2E,BOTH: Bad Entry + Early Exit,21.59,-5.01,-21.88,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),-17.53,-29.27,-14.24,Sold during improving trend | Panic sold crossing below 50 DMA | HUGE MISS (62.0% left on table),Bad call,Wrong early sell,62.03
+E2E,BOTH: Bad Entry + Early Exit,21.59,-5.01,-21.88,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),-17.53,-29.27,-14.24,Sold during improving trend | Panic sold crossing below 50 DMA | HUGE MISS (62.0% left on table),Bad call,Wrong early sell,62.03
+E2E,BOTH: Bad Entry + Early Exit,21.59,-5.01,-21.88,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),-17.53,-29.27,-14.24,Sold during improving trend | Panic sold crossing below 50 DMA | HUGE MISS (62.0% left on table),Bad call,Wrong early sell,62.03
+E2E,BOTH: Bad Entry + Early Exit,21.59,-5.01,-21.88,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),-17.53,-29.27,-14.24,Sold during improving trend | Panic sold crossing below 50 DMA | HUGE MISS (62.0% left on table),Bad call,Wrong early sell,62.03
+E2E,BOTH: Bad Entry + Early Exit,21.59,-5.01,-21.88,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),-17.53,-29.27,-14.24,Sold during improving trend | Panic sold crossing below 50 DMA | HUGE MISS (62.0% left on table),Bad call,Wrong early sell,62.03
+E2E,BOTH: Bad Entry + Early Exit,21.59,-5.01,-21.88,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),-17.53,-29.27,-14.24,Sold during improving trend | Panic sold crossing below 50 DMA | HUGE MISS (62.0% left on table),Bad call,Wrong early sell,62.03
+HCG,EARLY EXIT (wasted good entry),-1.5,12.64,14.36,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.77
+HCG,EARLY EXIT (wasted good entry),-1.5,12.64,14.36,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.7% left on table),Good call,Wrong early sell,18.74
+INDHOTEL,BOTH: Bad Entry + Early Exit,-0.78,3.93,4.75,No specific issue,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+INDHOTEL,BOTH: Bad Entry + Early Exit,-0.78,3.93,4.75,No specific issue,-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+NETWEB,EARLY EXIT (wasted good entry),20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),30.65,43.92,10.16,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | HUGE MISS (36.6% left on table),Good call,Wrong early sell,36.57
+NETWEB,EARLY EXIT (wasted good entry),20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),30.65,43.92,10.16,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | HUGE MISS (36.6% left on table),Good call,Wrong early sell,36.57
+NETWEB,EARLY EXIT (wasted good entry),20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),30.65,43.92,10.16,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | HUGE MISS (36.6% left on table),Good call,Wrong early sell,36.57
+NETWEB,EARLY EXIT (wasted good entry),20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),30.65,43.92,10.16,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | HUGE MISS (36.6% left on table),Good call,Wrong early sell,36.57
+NETWEB,EARLY EXIT (wasted good entry),20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),30.65,43.92,10.16,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | HUGE MISS (36.6% left on table),Good call,Wrong early sell,36.58
+NETWEB,EARLY EXIT (wasted good entry),20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),30.65,43.92,10.16,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | HUGE MISS (36.6% left on table),Good call,Wrong early sell,36.57
+NETWEB,EARLY EXIT (wasted good entry),20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.42
+NETWEB,EARLY EXIT (wasted good entry),20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.44
+NETWEB,EARLY EXIT (wasted good entry),20.11,-11.37,-26.21,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.44
+DIXON,EARLY EXIT (wasted good entry),-2.82,-2.58,0.25,Below 200 DMA | Weak DMA Diff (<3%),-9.69,-1.04,9.58,Sold during improving trend,Good call,Wrong early sell,0.16
+DIXON,EARLY EXIT (wasted good entry),-2.82,-2.58,0.25,Below 200 DMA | Weak DMA Diff (<3%),-9.69,-1.04,9.58,Sold during improving trend,Good call,Wrong early sell,0.16
+KAYNES,BOTH: Bad Entry + Early Exit,1.09,2.99,1.87,Weak DMA Diff (<3%),-3.66,-0.59,3.18,Sold during improving trend | Panic sold crossing below 50 DMA | Large miss (24.3% left on table),Bad call,Wrong early sell,24.33
+ABB,Bad Entry (but saved by good exit),8.16,-8.07,-15.01,Below 200 DMA | Death Cross (50<200),6.16,-7.85,-13.2,GOOD EXIT,Bad call,Good call,-12.22
+ANANTRAJ,BOTH: Bad Entry + Early Exit,16.35,-9.95,-22.6,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Bad call,Wrong early sell,10.44
+ANANTRAJ,BOTH: Bad Entry + Early Exit,16.35,-9.95,-22.6,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Bad call,Wrong early sell,10.44
+ANANTRAJ,BOTH: Bad Entry + Early Exit,16.35,-9.95,-22.6,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Bad call,Wrong early sell,10.44
+ANANTRAJ,BOTH: Bad Entry + Early Exit,16.35,-9.95,-22.6,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),12.35,-12.06,-21.72,Sold during improving trend | Moderate miss (10.4% left on table),Bad call,Wrong early sell,10.44
+TRENT,WELL EXECUTED,6.5,-9.44,-14.97,Below 200 DMA | Death Cross (50<200),4.64,-9.74,-13.75,GOOD EXIT,Good call,Good call,-16.37
+KEI,EARLY EXIT (wasted good entry),16.02,-5.15,-18.25,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Good call,Wrong early sell,11.99
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.7% left on table),Good call,Wrong early sell,18.74
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.7% left on table),Good call,Wrong early sell,18.74
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.7% left on table),Good call,Wrong early sell,18.74
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.83
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.83
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.83
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.83
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.84
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.82
+HCG,EARLY EXIT (wasted good entry),-1.74,12.3,14.29,GOOD ENTRY,10.17,17.79,6.91,Sold above both DMAs | Still strong trend (>5% above DMAs) | Moderate miss (18.8% left on table),Good call,Wrong early sell,18.82
+PGEL,BOTH: Bad Entry + Early Exit,-8.76,1.8,11.57,GOOD ENTRY,-35.5,-39.61,-6.38,Moderate miss (13.9% left on table),Bad call,Wrong early sell,13.91
+PGEL,BOTH: Bad Entry + Early Exit,-8.76,1.8,11.57,GOOD ENTRY,-35.5,-39.61,-6.38,Moderate miss (13.9% left on table),Bad call,Wrong early sell,13.91
+BAJAJFINSV,EARLY EXIT (wasted good entry),-0.43,9.51,9.98,GOOD ENTRY,0.35,10.05,9.67,Sold above both DMAs,Good call,Wrong early sell,8.75
+BAJFINANCE,BOTH: Bad Entry + Early Exit,4.39,20.64,15.57,Overbought (>15% above DMA) | GOOD ENTRY,-1.43,12.36,13.98,Panic sold crossing below 50 DMA | Moderate miss (18.2% left on table),Bad call,Wrong early sell,18.25
+BAJFINANCE,BOTH: Bad Entry + Early Exit,4.39,20.64,15.57,Overbought (>15% above DMA) | GOOD ENTRY,-1.43,12.36,13.98,Panic sold crossing below 50 DMA | Moderate miss (18.2% left on table),Bad call,Wrong early sell,18.25
+TARIL,Bad Entry (but saved by good exit),0.21,12.74,12.5,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.78
+TARIL,Bad Entry (but saved by good exit),0.21,12.74,12.5,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.8
+TARIL,Bad Entry (but saved by good exit),0.21,12.74,12.5,GOOD ENTRY,-0.27,1.2,1.47,GOOD EXIT,Bad call,Good call,-5.8
+TARIL,Bad Entry (but saved by good exit),0.21,12.74,12.5,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Bad call,Good call,-4.88
+TARIL,Bad Entry (but saved by good exit),0.21,12.74,12.5,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Bad call,Good call,-4.88
+ANANTRAJ,EARLY EXIT (wasted good entry),17.25,-9.11,-22.48,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),6.78,0.25,-6.12,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,7.9
+ANANTRAJ,EARLY EXIT (wasted good entry),17.25,-9.11,-22.48,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),6.78,0.25,-6.12,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,7.9
+ANANTRAJ,EARLY EXIT (wasted good entry),17.25,-9.11,-22.48,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),6.78,0.25,-6.12,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,7.9
+ANANTRAJ,EARLY EXIT (wasted good entry),17.25,-9.11,-22.48,Below 200 DMA | Death Cross (50<200) | Overbought (>15% above DMA),6.78,0.25,-6.12,Sold above both DMAs | Sold during improving trend,Good call,Wrong early sell,7.91
+CHOLAFIN,BOTH: Bad Entry + Early Exit,2.62,12.61,9.73,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Bad call,Wrong early sell,9.95
+KIMS,EARLY EXIT (wasted good entry),3.61,13.73,9.77,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),3.61,13.73,9.77,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),3.61,13.73,9.77,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),3.61,13.73,9.77,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+TARIL,Bad Entry (but saved by good exit),-0.43,11.55,12.03,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Bad call,Good call,-4.88
+TARIL,Bad Entry (but saved by good exit),-0.43,11.55,12.03,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Bad call,Good call,-4.88
+DIXON,EARLY EXIT (wasted good entry),-2.57,-1.96,0.62,Below 200 DMA | Weak DMA Diff (<3%),-9.69,-1.04,9.58,Sold during improving trend,Good call,Wrong early sell,0.16
+KEI,BOTH: Bad Entry + Early Exit,13.87,-3.74,-15.47,Below 200 DMA | Death Cross (50<200),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Bad call,Wrong early sell,11.99
+KEI,BOTH: Bad Entry + Early Exit,13.87,-3.74,-15.47,Below 200 DMA | Death Cross (50<200),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Bad call,Wrong early sell,11.99
+KEI,BOTH: Bad Entry + Early Exit,13.87,-3.74,-15.47,Below 200 DMA | Death Cross (50<200),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Bad call,Wrong early sell,11.99
+KEI,BOTH: Bad Entry + Early Exit,13.87,-3.74,-15.47,Below 200 DMA | Death Cross (50<200),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Bad call,Wrong early sell,11.99
+KEI,BOTH: Bad Entry + Early Exit,13.87,-3.74,-15.47,Below 200 DMA | Death Cross (50<200),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Bad call,Wrong early sell,11.99
+KEI,BOTH: Bad Entry + Early Exit,13.87,-3.74,-15.47,Below 200 DMA | Death Cross (50<200),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Bad call,Wrong early sell,11.99
+KEI,BOTH: Bad Entry + Early Exit,13.87,-3.74,-15.47,Below 200 DMA | Death Cross (50<200),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Bad call,Wrong early sell,11.99
+KEI,BOTH: Bad Entry + Early Exit,13.87,-3.74,-15.47,Below 200 DMA | Death Cross (50<200),12.99,-3.29,-14.41,Sold during improving trend | Moderate miss (12.0% left on table),Bad call,Wrong early sell,11.99
+ELECON,Bad Entry (but saved by good exit),13.73,16.32,2.27,Weak DMA Diff (<3%) | Overbought (>15% above DMA),-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+ELECON,Bad Entry (but saved by good exit),13.17,16.55,2.99,Weak DMA Diff (<3%) | Overbought (>15% above DMA),-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+BAJFINANCE,EARLY EXIT (wasted good entry),3.36,19.06,15.19,Overbought (>15% above DMA) | GOOD ENTRY,-1.43,12.36,13.98,Panic sold crossing below 50 DMA | Moderate miss (18.2% left on table),Good call,Wrong early sell,18.25
+KIMS,EARLY EXIT (wasted good entry),1.11,10.98,9.76,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),1.11,10.98,9.76,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.45
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.47
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.47
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.47
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),1.86,11.86,9.81,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+TARIL,WELL EXECUTED,-5.09,5.13,10.76,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Good call,Good call,-4.88
+TARIL,WELL EXECUTED,-5.09,5.13,10.76,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Good call,Good call,-4.88
+TARIL,WELL EXECUTED,-5.09,5.13,10.76,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Good call,Good call,-4.88
+TARIL,WELL EXECUTED,-5.09,5.13,10.76,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Good call,Good call,-4.88
+TARIL,WELL EXECUTED,-5.09,5.13,10.76,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Good call,Good call,-4.88
+TARIL,WELL EXECUTED,-5.09,5.13,10.76,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Good call,Good call,-4.88
+TARIL,WELL EXECUTED,-5.09,5.13,10.76,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Good call,Good call,-4.88
+TARIL,WELL EXECUTED,-5.09,5.13,10.76,GOOD ENTRY,-1.21,0.22,1.45,GOOD EXIT,Good call,Good call,-4.88
+TARIL,Bad Entry (but saved by good exit),-5.09,5.13,10.76,GOOD ENTRY,-4.24,-2.07,2.26,GOOD EXIT,Bad call,Good call,-2.0
+TARIL,Bad Entry (but saved by good exit),-5.09,5.13,10.76,GOOD ENTRY,-4.24,-2.07,2.26,GOOD EXIT,Bad call,Good call,-2.0
+DIXON,EARLY EXIT (wasted good entry),-6.0,-4.95,1.12,Below 200 DMA | Weak DMA Diff (<3%),-9.69,-1.04,9.58,Sold during improving trend,Good call,Wrong early sell,0.16
+DIXON,EARLY EXIT (wasted good entry),-6.0,-4.95,1.12,Below 200 DMA | Weak DMA Diff (<3%),-9.69,-1.04,9.58,Sold during improving trend,Good call,Wrong early sell,0.17
+KIMS,EARLY EXIT (wasted good entry),-3.48,6.13,9.95,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),-3.48,6.13,9.95,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),-3.48,6.13,9.95,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),-3.48,6.13,9.95,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,EARLY EXIT (wasted good entry),-3.48,6.13,9.95,GOOD ENTRY,6.95,16.97,9.37,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.48
+KIMS,WELL EXECUTED,-3.48,6.13,9.95,GOOD ENTRY,11.49,23.59,10.85,GOOD EXIT,Good call,Good call,-5.53
+KIMS,WELL EXECUTED,-3.48,6.13,9.95,GOOD ENTRY,11.49,23.59,10.85,GOOD EXIT,Good call,Good call,-5.53
+KIMS,WELL EXECUTED,-3.48,6.13,9.95,GOOD ENTRY,11.49,23.59,10.85,GOOD EXIT,Good call,Good call,-5.53
+KIMS,WELL EXECUTED,-3.48,6.13,9.95,GOOD ENTRY,11.49,23.59,10.85,GOOD EXIT,Good call,Good call,-5.53
+KIMS,WELL EXECUTED,-3.48,6.13,9.95,GOOD ENTRY,11.49,23.59,10.85,GOOD EXIT,Good call,Good call,-5.53
+KIMS,WELL EXECUTED,-3.48,6.13,9.95,GOOD ENTRY,11.49,23.59,10.85,GOOD EXIT,Good call,Good call,-5.48
+KIMS,WELL EXECUTED,-3.48,6.13,9.95,GOOD ENTRY,11.49,23.59,10.85,GOOD EXIT,Good call,Good call,-5.48
+KIMS,WELL EXECUTED,-3.48,6.13,9.95,GOOD ENTRY,11.49,23.59,10.85,GOOD EXIT,Good call,Good call,-5.48
+ELECON,Bad Entry (but saved by good exit),-0.76,10.04,10.88,GOOD ENTRY,-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+ELECON,Bad Entry (but saved by good exit),-0.76,10.04,10.88,GOOD ENTRY,-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+INDHOTEL,BOTH: Bad Entry + Early Exit,-0.95,-0.3,0.66,Below 200 DMA | Weak DMA Diff (<3%),-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+INDHOTEL,BOTH: Bad Entry + Early Exit,-0.95,-0.3,0.66,Below 200 DMA | Weak DMA Diff (<3%),-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.89
+CHOLAFIN,BOTH: Bad Entry + Early Exit,1.09,12.07,10.85,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Bad call,Wrong early sell,9.95
+CHOLAFIN,BOTH: Bad Entry + Early Exit,1.09,12.07,10.85,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Bad call,Wrong early sell,9.95
+TARIL,WELL EXECUTED,-6.98,0.44,7.97,GOOD ENTRY,-4.24,-2.07,2.26,GOOD EXIT,Good call,Good call,-2.0
+TARIL,WELL EXECUTED,-6.98,0.44,7.97,GOOD ENTRY,-4.24,-2.07,2.26,GOOD EXIT,Good call,Good call,-2.03
+TARIL,WELL EXECUTED,-6.98,0.44,7.97,GOOD ENTRY,-4.24,-2.07,2.26,GOOD EXIT,Good call,Good call,-2.03
+TARIL,WELL EXECUTED,-6.98,0.44,7.97,GOOD ENTRY,-4.24,-2.07,2.26,GOOD EXIT,Good call,Good call,-2.05
+TARIL,WELL EXECUTED,-6.98,0.44,7.97,GOOD ENTRY,-3.92,-1.9,2.1,GOOD EXIT,Good call,Good call,-1.62
+TARIL,WELL EXECUTED,-6.98,0.44,7.97,GOOD ENTRY,-3.92,-1.9,2.1,GOOD EXIT,Good call,Good call,-1.62
+TARIL,WELL EXECUTED,-6.98,0.44,7.97,GOOD ENTRY,-3.92,-1.9,2.1,GOOD EXIT,Good call,Good call,-1.62
+TARIL,WELL EXECUTED,-6.98,0.44,7.97,GOOD ENTRY,-3.92,-1.9,2.1,GOOD EXIT,Good call,Good call,-1.62
+AARTIPHARM,BOTH: Bad Entry + Early Exit,5.91,26.37,19.32,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.56
+AARTIPHARM,BOTH: Bad Entry + Early Exit,7.47,28.57,19.63,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.55
+AARTIPHARM,BOTH: Bad Entry + Early Exit,7.47,28.57,19.63,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.55
+AARTIPHARM,BOTH: Bad Entry + Early Exit,7.47,28.57,19.63,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.55
+AARTIPHARM,BOTH: Bad Entry + Early Exit,7.47,28.57,19.63,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.54
+AARTIPHARM,BOTH: Bad Entry + Early Exit,7.47,28.57,19.63,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.54
+AARTIPHARM,BOTH: Bad Entry + Early Exit,7.47,28.57,19.63,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.54
+ELECON,Bad Entry (but saved by good exit),-5.52,7.38,13.66,GOOD ENTRY,-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+ELECON,Bad Entry (but saved by good exit),-5.52,7.38,13.66,GOOD ENTRY,-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+PERSISTENT,BOTH: Bad Entry + Early Exit,-3.45,-2.07,1.44,Below 200 DMA | Weak DMA Diff (<3%),-10.15,-9.09,1.18,Moderate miss (13.1% left on table),Bad call,Wrong early sell,13.12
+VBL,WELL EXECUTED,-5.2,-17.22,-12.68,Below 200 DMA | Death Cross (50<200),1.2,-11.63,-12.68,GOOD EXIT,Good call,Good call,-5.03
+POLICYBZR,Bad Entry (but saved by good exit),-0.23,3.06,3.3,No specific issue,-2.27,2.11,4.49,GOOD EXIT,Bad call,Good call,-1.41
+INDHOTEL,EARLY EXIT (wasted good entry),-3.27,-4.09,-0.85,Below 200 DMA | Death Cross (50<200),-2.47,-4.72,-2.3,N/A,Good call,Wrong early sell,0.89
+INDHOTEL,EARLY EXIT (wasted good entry),-3.27,-4.09,-0.85,Below 200 DMA | Death Cross (50<200),-2.47,-4.72,-2.3,N/A,Good call,Wrong early sell,0.89
+INDHOTEL,EARLY EXIT (wasted good entry),-3.27,-4.09,-0.85,Below 200 DMA | Death Cross (50<200),-2.47,-4.72,-2.3,N/A,Good call,Wrong early sell,0.88
+CHOLAFIN,EARLY EXIT (wasted good entry),-3.24,7.46,11.07,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Good call,Wrong early sell,9.95
+CHOLAFIN,EARLY EXIT (wasted good entry),-3.24,7.46,11.07,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Good call,Wrong early sell,9.95
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-9.58,2.7,13.58,GOOD EXIT,Bad call,Good call,-5.28
+BAJFINANCE,EARLY EXIT (wasted good entry),0.04,14.17,14.13,GOOD ENTRY,-1.43,12.36,13.98,Panic sold crossing below 50 DMA | Moderate miss (18.2% left on table),Good call,Wrong early sell,18.25
+BAJFINANCE,EARLY EXIT (wasted good entry),0.04,14.17,14.13,GOOD ENTRY,-1.43,12.36,13.98,Panic sold crossing below 50 DMA | Moderate miss (18.4% left on table),Good call,Wrong early sell,18.45
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-11.15,0.69,13.33,GOOD EXIT,Bad call,Good call,-3.88
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-11.15,0.69,13.33,GOOD EXIT,Bad call,Good call,-3.88
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-11.15,0.69,13.33,GOOD EXIT,Bad call,Good call,-3.88
+POWERINDIA,WELL EXECUTED,2.83,29.94,26.37,Overbought (>15% above DMA) | GOOD ENTRY,3.4,33.43,29.04,GOOD EXIT,Good call,Good call,-13.75
+INDHOTEL,EARLY EXIT (wasted good entry),-3.88,-4.88,-1.04,Below 200 DMA | Death Cross (50<200),-2.47,-4.72,-2.3,N/A,Good call,Wrong early sell,0.88
+EICHERMOT,EARLY EXIT (wasted good entry),1.11,7.79,6.6,GOOD ENTRY,15.9,27.75,10.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.55
+CHOLAFIN,EARLY EXIT (wasted good entry),-3.47,7.22,11.07,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Good call,Wrong early sell,9.95
+CHOLAFIN,EARLY EXIT (wasted good entry),-3.47,7.22,11.07,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Good call,Wrong early sell,9.95
+CHOLAFIN,EARLY EXIT (wasted good entry),-3.47,7.22,11.07,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Good call,Wrong early sell,9.95
+CHOLAFIN,EARLY EXIT (wasted good entry),-3.47,7.22,11.07,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Good call,Wrong early sell,9.95
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-3.44,-1.42,2.09,GOOD EXIT,Bad call,Good call,-0.22
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-3.44,-1.42,2.09,GOOD EXIT,Bad call,Good call,-0.23
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-3.44,-1.42,2.09,GOOD EXIT,Bad call,Good call,-0.23
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-3.44,-1.42,2.09,GOOD EXIT,Bad call,Good call,-0.23
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-3.44,-1.42,2.09,GOOD EXIT,Bad call,Good call,-0.21
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-3.44,-1.42,2.09,GOOD EXIT,Bad call,Good call,-0.21
+ELECON,Bad Entry (but saved by good exit),-4.44,8.81,13.86,GOOD ENTRY,-3.44,-1.42,2.09,GOOD EXIT,Bad call,Good call,-0.21
+ELECON,BOTH: Bad Entry + Early Exit,-4.44,8.81,13.86,GOOD ENTRY,-4.23,-2.28,2.04,N/A,Bad call,Wrong early sell,1.19
+ELECON,BOTH: Bad Entry + Early Exit,-4.44,8.81,13.86,GOOD ENTRY,-4.23,-2.28,2.04,N/A,Bad call,Wrong early sell,1.2
+BSE,WELL EXECUTED,-5.06,29.08,35.96,Overbought (>15% above DMA) | GOOD ENTRY,8.93,14.45,5.07,GOOD EXIT,Good call,Good call,-0.12
+BSE,WELL EXECUTED,-5.06,29.08,35.96,Overbought (>15% above DMA) | GOOD ENTRY,8.93,14.45,5.07,GOOD EXIT,Good call,Good call,-0.12
+RAJOOENG,Bad Entry (but saved by good exit),,,,No specific issue,,,,GOOD EXIT,Bad call,Good call,-21.34
+RAJOOENG,Bad Entry (but saved by good exit),,,,No specific issue,,,,GOOD EXIT,Bad call,Good call,-21.34
+BAJFINANCE,BOTH: Bad Entry + Early Exit,0.17,14.29,14.09,GOOD ENTRY,-1.43,12.36,13.98,Panic sold crossing below 50 DMA | Moderate miss (18.4% left on table),Bad call,Wrong early sell,18.45
+INDHOTEL,EARLY EXIT (wasted good entry),-0.93,-2.06,-1.14,Below 200 DMA | Death Cross (50<200),-2.47,-4.72,-2.3,N/A,Good call,Wrong early sell,0.88
+INDHOTEL,EARLY EXIT (wasted good entry),-0.93,-2.06,-1.14,Below 200 DMA | Death Cross (50<200),-2.47,-4.72,-2.3,N/A,Good call,Wrong early sell,0.88
+ELECON,BOTH: Bad Entry + Early Exit,-7.61,5.35,14.03,GOOD ENTRY,-4.23,-2.28,2.04,N/A,Bad call,Wrong early sell,1.2
+ELECON,BOTH: Bad Entry + Early Exit,-7.61,5.35,14.03,GOOD ENTRY,-4.23,-2.28,2.04,N/A,Bad call,Wrong early sell,1.2
+BAJFINANCE,BOTH: Bad Entry + Early Exit,0.24,14.38,14.1,GOOD ENTRY,-1.43,12.36,13.98,Panic sold crossing below 50 DMA | Moderate miss (18.4% left on table),Bad call,Wrong early sell,18.45
+DLF,Bad Entry (but saved by good exit),4.68,10.01,5.08,GOOD ENTRY,-0.19,7.46,7.67,GOOD EXIT,Bad call,Good call,-5.85
+POLICYBZR,Bad Entry (but saved by good exit),-1.28,2.83,4.17,No specific issue,-2.27,2.11,4.49,GOOD EXIT,Bad call,Good call,-1.41
+POLICYBZR,Bad Entry (but saved by good exit),-1.28,2.83,4.17,No specific issue,-2.27,2.11,4.49,GOOD EXIT,Bad call,Good call,-1.41
+POLICYBZR,Bad Entry (but saved by good exit),-1.28,2.83,4.17,No specific issue,-2.27,2.11,4.49,GOOD EXIT,Bad call,Good call,-1.41
+INDHOTEL,BOTH: Bad Entry + Early Exit,-0.58,-1.73,-1.16,Below 200 DMA | Death Cross (50<200),-2.47,-4.72,-2.3,N/A,Bad call,Wrong early sell,0.88
+CHOLAFIN,EARLY EXIT (wasted good entry),-1.26,9.81,11.21,GOOD ENTRY,3.9,7.34,3.31,Sold above both DMAs,Good call,Wrong early sell,9.95
+CHOLAFIN,EARLY EXIT (wasted good entry),-1.26,9.81,11.21,GOOD ENTRY,7.85,11.31,3.2,Sold above both DMAs | Still strong trend (>5% above DMAs),Good call,Wrong early sell,6.74
+MAZDOCK,Bad Entry (but saved by good exit),-9.57,16.35,28.66,Overbought (>15% above DMA) | GOOD ENTRY,-11.9,11.66,26.74,GOOD EXIT,Bad call,Good call,-2.72
+RAJOOENG,Bad Entry (but saved by good exit),,,,No specific issue,,,,GOOD EXIT,Bad call,Good call,-21.34
+RAJOOENG,Bad Entry (but saved by good exit),,,,No specific issue,,,,GOOD EXIT,Bad call,Good call,-21.34
+RAJOOENG,Bad Entry (but saved by good exit),,,,No specific issue,,,,GOOD EXIT,Bad call,Good call,-21.34
+AARTIPHARM,BOTH: Bad Entry + Early Exit,4.54,28.37,22.79,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.54
+AARTIPHARM,BOTH: Bad Entry + Early Exit,4.54,28.37,22.79,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.54
+AARTIPHARM,BOTH: Bad Entry + Early Exit,4.54,28.37,22.79,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.54
+AARTIPHARM,BOTH: Bad Entry + Early Exit,4.54,28.37,22.79,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.54
+AARTIPHARM,BOTH: Bad Entry + Early Exit,4.54,28.37,22.79,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.49
+AARTIPHARM,BOTH: Bad Entry + Early Exit,4.54,28.37,22.79,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.44
+AARTIPHARM,BOTH: Bad Entry + Early Exit,4.54,28.37,22.79,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.56
+AARTIPHARM,BOTH: Bad Entry + Early Exit,4.54,28.37,22.79,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.56
+AARTIPHARM,BOTH: Bad Entry + Early Exit,4.54,28.37,22.79,Overbought (>15% above DMA) | GOOD ENTRY,-12.0,5.35,19.72,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,5.52
+JASH,Bad Entry (but saved by good exit),0.97,1.51,0.53,Weak DMA Diff (<3%),-7.07,-9.14,-2.22,GOOD EXIT,Bad call,Good call,-4.7
+EICHERMOT,EARLY EXIT (wasted good entry),-1.13,5.1,6.29,GOOD ENTRY,15.9,27.75,10.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.55
+FORCEMOT,BOTH: Bad Entry + Early Exit,27.31,96.76,54.55,Overbought (>15% above DMA),-14.39,31.96,54.14,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,3.83
+BHARTIARTL,EARLY EXIT (wasted good entry),2.14,12.98,10.61,GOOD ENTRY,2.39,8.86,6.32,Sold above both DMAs,Good call,Wrong early sell,6.55
+EICHERMOT,EARLY EXIT (wasted good entry),-0.42,5.67,6.12,GOOD ENTRY,15.9,27.75,10.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,1.55
+EICHERMOT,WELL EXECUTED,-0.42,5.67,6.12,GOOD ENTRY,4.08,22.77,17.96,GOOD EXIT,Good call,Good call,-0.29
+BHARTIARTL,EARLY EXIT (wasted good entry),-2.93,7.64,10.89,GOOD ENTRY,2.39,8.86,6.32,Sold above both DMAs,Good call,Wrong early sell,6.55
+FORCEMOT,BOTH: Bad Entry + Early Exit,31.9,115.81,63.61,Overbought (>15% above DMA),-11.67,33.67,51.33,Panic sold crossing below 50 DMA,Bad call,Wrong early sell,2.73
+NETWEB,EARLY EXIT (wasted good entry),11.74,11.69,-0.04,Death Cross (50<200),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.42
+NETWEB,EARLY EXIT (wasted good entry),11.74,11.69,-0.04,Death Cross (50<200),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.42
+NETWEB,EARLY EXIT (wasted good entry),11.74,11.69,-0.04,Death Cross (50<200),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.42
+NETWEB,EARLY EXIT (wasted good entry),11.74,11.69,-0.04,Death Cross (50<200),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.42
+PERSISTENT,WELL EXECUTED,-1.24,-6.39,-5.22,Below 200 DMA | Death Cross (50<200),9.39,5.65,-3.42,GOOD EXIT,Good call,Good call,-0.52
+FORCEMOT,BOTH: Bad Entry + Early Exit,-1.93,58.51,61.63,Overbought (>15% above DMA) | GOOD ENTRY,-11.67,33.67,51.33,N/A,Bad call,Wrong early sell,2.73
+EICHERMOT,Bad Entry (but saved by good exit),15.92,29.72,11.91,Overbought (>15% above DMA),4.08,22.77,17.96,GOOD EXIT,Bad call,Good call,-0.29
+NETWEB,EARLY EXIT (wasted good entry),49.37,75.8,17.69,Overbought (>15% above DMA),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.44
+NETWEB,EARLY EXIT (wasted good entry),49.37,75.8,17.69,Overbought (>15% above DMA),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.44
+NETWEB,EARLY EXIT (wasted good entry),48.57,78.85,20.38,Overbought (>15% above DMA),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.44
+PERSISTENT,WELL EXECUTED,-6.59,-11.77,-5.55,Below 200 DMA | Death Cross (50<200),9.39,5.65,-3.42,GOOD EXIT,Good call,Good call,-0.52
+PERSISTENT,WELL EXECUTED,-6.59,-11.77,-5.55,Below 200 DMA | Death Cross (50<200),9.39,5.65,-3.42,GOOD EXIT,Good call,Good call,-0.51
+NETWEB,EARLY EXIT (wasted good entry),43.39,76.79,23.29,Overbought (>15% above DMA),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.44
+NETWEB,EARLY EXIT (wasted good entry),43.39,76.79,23.29,Overbought (>15% above DMA),17.68,74.77,48.51,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs),Good call,Wrong early sell,5.44
+PERSISTENT,WELL EXECUTED,-8.55,-13.84,-5.78,Below 200 DMA | Death Cross (50<200),9.39,5.65,-3.42,GOOD EXIT,Good call,Good call,-0.51
+DIXON,BOTH: Bad Entry + Early Exit,0.38,9.42,9.01,GOOD ENTRY,-9.69,-1.04,9.58,Sold during improving trend | Panic sold crossing below 50 DMA,Bad call,Wrong early sell,0.17
+EIMCOELECO,Bad Entry (but saved by good exit),7.2,15.05,7.33,Overbought (>15% above DMA) | GOOD ENTRY,-9.0,-2.95,6.64,GOOD EXIT,Bad call,Good call,-5.83
+EIMCOELECO,Bad Entry (but saved by good exit),7.2,15.05,7.33,Overbought (>15% above DMA) | GOOD ENTRY,-9.0,-2.95,6.64,GOOD EXIT,Bad call,Good call,-5.83
+EIMCOELECO,Bad Entry (but saved by good exit),7.2,15.05,7.33,Overbought (>15% above DMA) | GOOD ENTRY,-9.0,-2.95,6.64,GOOD EXIT,Bad call,Good call,-5.83
+EIMCOELECO,Bad Entry (but saved by good exit),7.2,15.05,7.33,Overbought (>15% above DMA) | GOOD ENTRY,-9.0,-2.95,6.64,GOOD EXIT,Bad call,Good call,-5.82
+M&M,WELL EXECUTED,1.4,12.95,11.39,GOOD ENTRY,4.57,17.6,12.46,GOOD EXIT,Good call,Good call,-0.45
+M&M,WELL EXECUTED,1.39,13.0,11.45,GOOD ENTRY,4.57,17.6,12.46,GOOD EXIT,Good call,Good call,-0.45
+GOLDETF,EARLY EXIT (wasted good entry),2.08,13.22,10.91,GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.8% left on table),Good call,Wrong early sell,24.75
+SETFGOLD,EARLY EXIT (wasted good entry),1.92,12.79,10.66,GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.22
+SETFGOLD,EARLY EXIT (wasted good entry),1.92,12.79,10.66,GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.24
+SETFGOLD,EARLY EXIT (wasted good entry),1.92,12.79,10.66,GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.25
+SETFGOLD,EARLY EXIT (wasted good entry),1.92,12.79,10.66,GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.3
+SETFGOLD,EARLY EXIT (wasted good entry),1.92,12.79,10.66,GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.31
+SETFGOLD,EARLY EXIT (wasted good entry),1.92,12.79,10.66,GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.31
+GOLDBEES,EARLY EXIT (wasted good entry),2.03,12.94,10.69,GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.8% left on table),Good call,Wrong early sell,24.83
+GOLDBEES,EARLY EXIT (wasted good entry),2.03,12.94,10.69,GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Good call,Wrong early sell,24.85
+GOLDETF,EARLY EXIT (wasted good entry),3.46,14.85,11.02,GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.8% left on table),Good call,Wrong early sell,24.75
+GOLDETF,EARLY EXIT (wasted good entry),3.46,14.85,11.02,GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Good call,Wrong early sell,24.87
+GOLDETF,EARLY EXIT (wasted good entry),3.46,14.85,11.02,GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.4% left on table),Good call,Wrong early sell,25.36
+GOLDETF,EARLY EXIT (wasted good entry),3.46,14.85,11.02,GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.4% left on table),Good call,Wrong early sell,25.38
+GOLDETF,EARLY EXIT (wasted good entry),3.46,14.85,11.02,GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.4% left on table),Good call,Wrong early sell,25.38
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.31
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.31
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.3% left on table),Good call,Wrong early sell,25.31
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.4% left on table),Good call,Wrong early sell,25.39
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.5% left on table),Good call,Wrong early sell,25.51
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.5% left on table),Good call,Wrong early sell,25.53
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.5% left on table),Good call,Wrong early sell,25.54
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.5% left on table),Good call,Wrong early sell,25.54
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.6% left on table),Good call,Wrong early sell,25.56
+SETFGOLD,EARLY EXIT (wasted good entry),7.23,18.95,10.93,Overbought (>15% above DMA) | GOOD ENTRY,8.81,21.83,11.96,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.6% left on table),Good call,Wrong early sell,25.6
+GOLDBEES,EARLY EXIT (wasted good entry),6.73,18.61,11.13,Overbought (>15% above DMA) | GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Good call,Wrong early sell,24.85
+GOLDBEES,EARLY EXIT (wasted good entry),6.73,18.61,11.13,Overbought (>15% above DMA) | GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Good call,Wrong early sell,24.85
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.4% left on table),Good call,Wrong early sell,25.38
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.4% left on table),Good call,Wrong early sell,25.4
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.4% left on table),Good call,Wrong early sell,25.43
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.6% left on table),Good call,Wrong early sell,25.63
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.7% left on table),Good call,Wrong early sell,25.67
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.7% left on table),Good call,Wrong early sell,25.68
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.7% left on table),Good call,Wrong early sell,25.7
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.7% left on table),Good call,Wrong early sell,25.72
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.6% left on table),Good call,Wrong early sell,24.58
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.7% left on table),Good call,Wrong early sell,24.69
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.7% left on table),Good call,Wrong early sell,24.7
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.0% left on table),Good call,Wrong early sell,25.03
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.1% left on table),Good call,Wrong early sell,25.14
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.18
+GOLDETF,EARLY EXIT (wasted good entry),8.42,21.1,11.69,Overbought (>15% above DMA) | GOOD ENTRY,9.11,22.45,12.23,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.2% left on table),Good call,Wrong early sell,25.23
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Good call,Wrong early sell,24.85
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Good call,Wrong early sell,24.85
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Good call,Wrong early sell,24.85
+GOLDBEES,EARLY EXIT (wasted good entry),8.65,21.11,11.46,Overbought (>15% above DMA) | GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Good call,Wrong early sell,24.86
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,6.41,19.6,12.39,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.6% left on table),Bad call,Wrong early sell,25.65
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,6.41,19.6,12.39,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.7% left on table),Bad call,Wrong early sell,25.68
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,6.41,19.6,12.39,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.7% left on table),Bad call,Wrong early sell,25.7
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,6.41,19.6,12.39,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.7% left on table),Bad call,Wrong early sell,25.7
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,6.41,19.6,12.39,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.7% left on table),Bad call,Wrong early sell,25.7
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,6.41,19.6,12.39,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (25.7% left on table),Bad call,Wrong early sell,25.7
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,4.14,17.9,13.21,Sold above both DMAs | Sold during improving trend | Large miss (26.9% left on table),Bad call,Wrong early sell,26.95
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,4.14,17.9,13.21,Sold above both DMAs | Sold during improving trend | Large miss (27.0% left on table),Bad call,Wrong early sell,26.97
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,4.14,17.9,13.21,Sold above both DMAs | Sold during improving trend | Large miss (27.0% left on table),Bad call,Wrong early sell,27.01
+HDFCGOLD,BOTH: Bad Entry + Early Exit,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,1.91,15.6,13.43,Sold above both DMAs | Sold during improving trend | Large miss (28.7% left on table),Bad call,Wrong early sell,28.74
+HDFCGOLD,WELL EXECUTED,11.99,25.38,11.96,Overbought (>15% above DMA) | GOOD ENTRY,7.62,24.18,15.38,GOOD EXIT,Good call,Good call,-0.3
+GOLDBEES,BOTH: Bad Entry + Early Exit,8.77,21.84,12.02,Overbought (>15% above DMA) | GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Bad call,Wrong early sell,24.86
+GOLDBEES,BOTH: Bad Entry + Early Exit,8.77,21.84,12.02,Overbought (>15% above DMA) | GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Bad call,Wrong early sell,24.88
+GOLDBEES,BOTH: Bad Entry + Early Exit,8.77,21.84,12.02,Overbought (>15% above DMA) | GOOD ENTRY,7.77,20.94,12.22,Sold above both DMAs | Sold during improving trend | Still strong trend (>5% above DMAs) | Large miss (24.9% left on table),Bad call,Wrong early sell,24.89
+HDFCGOLD,WELL EXECUTED,4.68,19.51,14.16,Overbought (>15% above DMA) | GOOD ENTRY,7.62,24.18,15.38,GOOD EXIT,Good call,Good call,-0.3
+HDFCGOLD,WELL EXECUTED,4.68,19.51,14.16,Overbought (>15% above DMA) | GOOD ENTRY,7.62,24.18,15.38,GOOD EXIT,Good call,Good call,-0.3
+HDFCGOLD,WELL EXECUTED,4.68,19.51,14.16,Overbought (>15% above DMA) | GOOD ENTRY,7.62,24.18,15.38,GOOD EXIT,Good call,Good call,-0.3
+HDFCGOLD,WELL EXECUTED,4.68,19.51,14.16,Overbought (>15% above DMA) | GOOD ENTRY,7.62,24.18,15.38,GOOD EXIT,Good call,Good call,-0.29
+HDFCGOLD,WELL EXECUTED,4.68,19.51,14.16,Overbought (>15% above DMA) | GOOD ENTRY,7.62,24.18,15.38,GOOD EXIT,Good call,Good call,-0.29
+HDFCGOLD,WELL EXECUTED,4.68,19.51,14.16,Overbought (>15% above DMA) | GOOD ENTRY,7.62,24.18,15.38,GOOD EXIT,Good call,Good call,-0.29
+HDFCGOLD,WELL EXECUTED,4.68,19.51,14.16,Overbought (>15% above DMA) | GOOD ENTRY,7.62,24.18,15.38,GOOD EXIT,Good call,Good call,-0.29
+GOLDETF,WELL EXECUTED,12.34,25.83,12.01,Overbought (>15% above DMA),8.18,24.77,15.33,GOOD EXIT,Good call,Good call,-0.22
+GOLDETF,WELL EXECUTED,12.34,25.83,12.01,Overbought (>15% above DMA),8.18,24.77,15.33,GOOD EXIT,Good call,Good call,-0.22
+GOLDETF,WELL EXECUTED,11.18,24.68,12.15,Overbought (>15% above DMA) | GOOD ENTRY,8.18,24.77,15.33,GOOD EXIT,Good call,Good call,-0.22
+GOLDETF,WELL EXECUTED,11.18,24.68,12.15,Overbought (>15% above DMA) | GOOD ENTRY,8.18,24.77,15.33,GOOD EXIT,Good call,Good call,-0.22
+GOLDETF,WELL EXECUTED,11.18,24.68,12.15,Overbought (>15% above DMA) | GOOD ENTRY,8.18,24.77,15.33,GOOD EXIT,Good call,Good call,-0.21
+SILVERBEES,Bad Entry (but saved by good exit),20.98,42.76,18.0,Overbought (>15% above DMA),9.75,35.58,23.54,GOOD EXIT,Bad call,Good call,-2.97
+GOLDETF,WELL EXECUTED,13.2,27.32,12.47,Overbought (>15% above DMA),8.18,24.77,15.33,GOOD EXIT,Good call,Good call,-0.21
+SILVERBEES,Bad Entry (but saved by good exit),29.46,53.97,18.93,Overbought (>15% above DMA),9.75,35.58,23.54,GOOD EXIT,Bad call,Good call,-2.97
+SILVERBEES,Bad Entry (but saved by good exit),29.46,53.97,18.93,Overbought (>15% above DMA),9.75,35.58,23.54,GOOD EXIT,Bad call,Good call,-2.97
+SILVERBEES,Bad Entry (but saved by good exit),34.04,60.84,19.99,Overbought (>15% above DMA),9.75,35.58,23.54,GOOD EXIT,Bad call,Good call,-2.97
+GOLDETF,Bad Entry (but saved by good exit),14.45,29.74,13.37,Overbought (>15% above DMA),8.18,24.77,15.33,GOOD EXIT,Bad call,Good call,-0.21
+GOLDETF,Bad Entry (but saved by good exit),14.45,29.74,13.37,Overbought (>15% above DMA),8.18,24.77,15.33,GOOD EXIT,Bad call,Good call,-0.21
+SILVERBEES,WELL EXECUTED,9.75,35.58,23.54,Overbought (>15% above DMA) | GOOD ENTRY,9.75,35.58,23.54,GOOD EXIT,Good call,Good call,-2.97
+GOLDETF,WELL EXECUTED,10.01,26.68,15.16,Overbought (>15% above DMA) | GOOD ENTRY,8.18,24.77,15.33,GOOD EXIT,Good call,Good call,-0.21
+GOLDETF,WELL EXECUTED,10.01,26.68,15.16,Overbought (>15% above DMA) | GOOD ENTRY,8.18,24.77,15.33,GOOD EXIT,Good call,Good call,-0.21
